@@ -1,0 +1,549 @@
+PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX th:   <http://www.tuniheritage.tn/ontology#>
+PREFIX wd:   <http://www.wikidata.org/entity/>
+
+wd:Q42758238  rdf:type           th:Monument;
+        rdfs:label               "mausolée"@fr;
+        th:aIdentifiantWikidata  "Q42758238";
+        th:aNom                  "mausolée"@fr .
+
+wd:Q42599299  rdf:type           th:Monument;
+        rdfs:label               "tourba d'Ali Pacha"@fr;
+        th:aIdentifiantWikidata  "Q42599299";
+        th:aLatitude             "36.7969161"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.1720674"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "tourba d'Ali Pacha"@fr .
+
+wd:Q42601939  rdf:type           th:Monument;
+        rdfs:label               "Mausolée à un étage, à 1500 mètres de la forteresse byzantine"@fr;
+        th:aIdentifiantWikidata  "Q42601939";
+        th:aNom                  "Mausolée à un étage, à 1500 mètres de la forteresse byzantine"@fr .
+
+wd:Q42599473  rdf:type           th:Monument;
+        rdfs:label               "Tourba El-Fettari"@fr;
+        th:aIdentifiantWikidata  "Q42599473";
+        th:aNom                  "Tourba El-Fettari"@fr .
+
+wd:Q42754142  rdf:type           th:Monument;
+        rdfs:label               "Mausolée de Sallustius Silvanus et de Sentia Rogata"@fr;
+        th:aIdentifiantWikidata  "Q42754142";
+        th:aNom                  "Mausolée de Sallustius Silvanus et de Sentia Rogata"@fr .
+
+wd:Q42599688  rdf:type           th:Monument;
+        rdfs:label               "mausolée Sidi Youssef"@fr;
+        th:aIdentifiantWikidata  "Q42599688";
+        th:aLatitude             "36.797191"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.169467"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "mausolée Sidi Youssef"@fr .
+
+wd:Q42765448  rdf:type           th:Monument;
+        rdfs:label               "hypogée de Meninx"@fr;
+        th:aIdentifiantWikidata  "Q42765448";
+        th:aLatitude             "33.686469"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.899754"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "hypogée de Meninx"@fr .
+
+wd:Q1229542  rdf:type            th:Monument;
+        rdfs:label               "Ksar Chetaoua"@fr;
+        th:aIdentifiantWikidata  "Q1229542";
+        th:aLatitude             "33.411886111"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.632363888"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Ksar Chetaoua"@fr .
+
+wd:Q42757573  rdf:type           th:Monument;
+        rdfs:label               "mausolée avec crypte"@fr;
+        th:aIdentifiantWikidata  "Q42757573";
+        th:aNom                  "mausolée avec crypte"@fr .
+
+wd:Q42757910  rdf:type           th:Monument;
+        rdfs:label               "arc de Gordien Ier"@fr;
+        th:aIdentifiantWikidata  "Q42757910";
+        th:aLatitude             "36.337233"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.146654"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "arc de Gordien Ier"@fr .
+
+wd:Q42760912  rdf:type           th:Monument;
+        rdfs:label               "porte monumentale dédiée par Q. Manilius Félix à la Colonia Cillitana et réparée sous Constantin"@fr;
+        th:aIdentifiantWikidata  "Q42760912";
+        th:aNom                  "porte monumentale dédiée par Q. Manilius Félix à la Colonia Cillitana et réparée sous Constantin"@fr .
+
+wd:Q1659488  rdf:type            th:Monument;
+        rdfs:label               "cimetière militaire d'Enfida"@fr;
+        th:aIdentifiantWikidata  "Q1659488";
+        th:aLatitude             "36.13382"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.37386"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "cimetière militaire d'Enfida"@fr .
+
+wd:Q33188541  rdf:type           th:Monument;
+        rdfs:label               "tourba de Kara Mustafa Dey"@fr;
+        th:aIdentifiantWikidata  "Q33188541";
+        th:aLatitude             "36.7955"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.170326"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "tourba de Kara Mustafa Dey"@fr .
+
+wd:Q42757938  rdf:type           th:Monument;
+        rdfs:label               "cippe à quatre figures sculptées"@fr;
+        th:aIdentifiantWikidata  "Q42757938";
+        th:aNom                  "cippe à quatre figures sculptées"@fr .
+
+wd:Q42757889  rdf:type           th:Monument;
+        rdfs:label               "mausolée à deux étages"@fr;
+        th:aIdentifiantWikidata  "Q42757889";
+        th:aNom                  "mausolée à deux étages"@fr .
+
+wd:Q42761287  rdf:type           th:Monument;
+        rdfs:label               "Mausolée"@fr;
+        th:aIdentifiantWikidata  "Q42761287";
+        th:aNom                  "Mausolée"@fr .
+
+wd:Q42759630  rdf:type           th:Monument;
+        rdfs:label               "mausolée"@fr;
+        th:aIdentifiantWikidata  "Q42759630";
+        th:aNom                  "mausolée"@fr .
+
+wd:Q42760538  rdf:type           th:Monument;
+        rdfs:label               "mausolée des Petronii, à 1000 mètres à l'est de l'oued Kasserin"@fr;
+        th:aIdentifiantWikidata  "Q42760538";
+        th:aNom                  "mausolée des Petronii, à 1000 mètres à l'est de l'oued Kasserin"@fr .
+
+wd:Q28322618  rdf:type           th:Monument;
+        rdfs:label               "tourbet Al Mohsen"@fr;
+        th:aIdentifiantWikidata  "Q28322618";
+        th:aLatitude             "36.794759"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.173024"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "tourbet Al Mohsen"@fr .
+
+wd:Q42754051  rdf:type           th:Monument;
+        rdfs:label               "Grand mausolée dont les pilastres angulaires cannelés sont surmontés de chapiteaux composites"@fr;
+        th:aIdentifiantWikidata  "Q42754051";
+        th:aNom                  "Grand mausolée dont les pilastres angulaires cannelés sont surmontés de chapiteaux composites"@fr .
+
+wd:Q42763632  rdf:type           th:Monument;
+        rdfs:label               "arc de triomphe"@fr;
+        th:aIdentifiantWikidata  "Q42763632";
+        th:aLatitude             "35.211781"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.791558"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "arc de triomphe"@fr .
+
+wd:Q42765012  rdf:type           th:Monument;
+        rdfs:label               "mausolée"@fr;
+        th:aIdentifiantWikidata  "Q42765012";
+        th:aNom                  "mausolée"@fr .
+
+wd:Q42764113  rdf:type           th:Monument;
+        rdfs:label               "mausolée dit « Tour romaine », crypte chrétienne et pressoirs voisins, situés à l'enchir oued Firane"@fr;
+        th:aIdentifiantWikidata  "Q42764113";
+        th:aNom                  "mausolée dit « Tour romaine », crypte chrétienne et pressoirs voisins, situés à l'enchir oued Firane"@fr .
+
+wd:Q42757206  rdf:type           th:Monument;
+        rdfs:label               "mausolée"@fr;
+        th:aIdentifiantWikidata  "Q42757206";
+        th:aNom                  "mausolée"@fr .
+
+wd:Q42599633  rdf:type           th:Monument;
+        rdfs:label               "tombeau de Mourad Bey"@fr;
+        th:aIdentifiantWikidata  "Q42599633";
+        th:aLatitude             "36.79804"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.170367"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "tombeau de Mourad Bey"@fr .
+
+wd:Q42759933  rdf:type           th:Monument;
+        rdfs:label               "mausolée hexagonal, à deux étages à l'ouest des ruines"@fr;
+        th:aIdentifiantWikidata  "Q42759933";
+        th:aNom                  "mausolée hexagonal, à deux étages à l'ouest des ruines"@fr .
+
+wd:Q42763964  rdf:type           th:Monument;
+        rdfs:label               "mausolée de Julius Rogatus"@fr;
+        th:aIdentifiantWikidata  "Q42763964";
+        th:aNom                  "mausolée de Julius Rogatus"@fr .
+
+wd:Q42758977  rdf:type           th:Monument;
+        rdfs:label               "Monument à côté du tombeau"@fr;
+        th:aIdentifiantWikidata  "Q42758977";
+        th:aNom                  "Monument à côté du tombeau"@fr .
+
+wd:Q42761821  rdf:type           th:Monument;
+        rdfs:label               "tombe romaine"@fr;
+        th:aIdentifiantWikidata  "Q42761821";
+        th:aNom                  "tombe romaine"@fr .
+
+wd:Q42760857  rdf:type           th:Monument;
+        rdfs:label               "grand mausolée à deux étages"@fr;
+        th:aIdentifiantWikidata  "Q42760857";
+        th:aNom                  "grand mausolée à deux étages"@fr .
+
+wd:Q42764043  rdf:type           th:Monument;
+        rdfs:label               "monument d'Urbanilla, dit Somâa el Hamra"@fr;
+        th:aIdentifiantWikidata  "Q42764043";
+        th:aNom                  "monument d'Urbanilla, dit Somâa el Hamra"@fr .
+
+wd:Q42759969  rdf:type           th:Monument;
+        rdfs:label               "mausolée quadrangulaire à 220 m au nord de l'arc de Septime Sévère et les cippes qui l'entourent"@fr;
+        th:aIdentifiantWikidata  "Q42759969";
+        th:aNom                  "mausolée quadrangulaire à 220 m au nord de l'arc de Septime Sévère et les cippes qui l'entourent"@fr .
+
+wd:Q42759591  rdf:type           th:Monument;
+        rdfs:label               "mausolée de Caius Marius Romanus"@fr;
+        th:aIdentifiantWikidata  "Q42759591";
+        th:aNom                  "mausolée de Caius Marius Romanus"@fr .
+
+wd:Q42764152  rdf:type           th:Monument;
+        rdfs:label               "mausolée de Sidi bou Diaf près de Moularès"@fr;
+        th:aIdentifiantWikidata  "Q42764152";
+        th:aNom                  "mausolée de Sidi bou Diaf près de Moularès"@fr .
+
+wd:Q42756821  rdf:type           th:Monument;
+        rdfs:label               "mausolée pyramidal de Makthar"@fr;
+        th:aIdentifiantWikidata  "Q42756821";
+        th:aLatitude             "35.85167"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.202914"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "mausolée pyramidal de Makthar"@fr .
+
+wd:Q42756492  rdf:type           th:Monument;
+        rdfs:label               "mausolée"@fr;
+        th:aIdentifiantWikidata  "Q42756492";
+        th:aNom                  "mausolée"@fr .
+
+wd:Q123149579  rdf:type          th:Monument;
+        rdfs:label               "mausolée de Yaacov Slama"@fr;
+        th:aIdentifiantWikidata  "Q123149579";
+        th:aLatitude             "36.465194897"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.736296969"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "mausolée de Yaacov Slama"@fr .
+
+wd:Q42756873  rdf:type           th:Monument;
+        rdfs:label               "mausolée des Julii"@fr;
+        th:aIdentifiantWikidata  "Q42756873";
+        th:aNom                  "mausolée des Julii"@fr .
+
+wd:Q42760527  rdf:type           th:Monument;
+        rdfs:label               "Mausolée romain, à 6 kilomètres au sud de la station de Kasserine"@fr;
+        th:aIdentifiantWikidata  "Q42760527";
+        th:aNom                  "Mausolée romain, à 6 kilomètres au sud de la station de Kasserine"@fr .
+
+wd:Q42761442  rdf:type           th:Monument;
+        rdfs:label               "Tombeau carré"@fr;
+        th:aIdentifiantWikidata  "Q42761442";
+        th:aNom                  "Tombeau carré"@fr .
+
+wd:Q42759704  rdf:type           th:Monument;
+        rdfs:label               "mausolée avec un escalier, un portique, et sur les angles des pilastres corinthiens"@fr;
+        th:aIdentifiantWikidata  "Q42759704";
+        th:aNom                  "mausolée avec un escalier, un portique, et sur les angles des pilastres corinthiens"@fr .
+
+wd:Q42755556  rdf:type           th:Monument;
+        rdfs:label               "mausolée"@fr;
+        th:aIdentifiantWikidata  "Q42755556";
+        th:aNom                  "mausolée"@fr .
+
+wd:Q42756029  rdf:type           th:Monument;
+        rdfs:label               "arc triomphal dédié à Hadrien et à L. Aelius"@fr;
+        th:aIdentifiantWikidata  "Q42756029";
+        th:aNom                  "arc triomphal dédié à Hadrien et à L. Aelius"@fr .
+
+wd:Q103528586  rdf:type          th:Monument;
+        rdfs:label               "cippe de Beccut"@fr;
+        th:aIdentifiantWikidata  "Q103528586";
+        th:aNom                  "cippe de Beccut"@fr .
+
+wd:Q42761377  rdf:type           th:Monument;
+        rdfs:label               "Grande forteresse romaine à tours"@fr;
+        th:aIdentifiantWikidata  "Q42761377";
+        th:aNom                  "Grande forteresse romaine à tours"@fr .
+
+wd:Q34828131  rdf:type           th:Monument;
+        rdfs:label               "restes d'un monument funéraire à petites niches"@fr;
+        th:aIdentifiantWikidata  "Q34828131";
+        th:aNom                  "restes d'un monument funéraire à petites niches"@fr .
+
+wd:Q42763836  rdf:type           th:Monument;
+        rdfs:label               "mausolée octogonal"@fr;
+        th:aIdentifiantWikidata  "Q42763836";
+        th:aNom                  "mausolée octogonal"@fr .
+
+wd:Q139827218  rdf:type          th:Monument;
+        rdfs:label               "Arch of Gordian III at Musti"@fr;
+        th:aIdentifiantWikidata  "Q139827218";
+        th:aLatitude             "36.3372875"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.1467347"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Arch of Gordian III at Musti"@fr .
+
+wd:Q42601767  rdf:type           th:Monument;
+        rdfs:label               "Grand mausolée"@fr;
+        th:aIdentifiantWikidata  "Q42601767";
+        th:aNom                  "Grand mausolée"@fr .
+
+wd:Q14612528  rdf:type           th:Monument;
+        rdfs:label               "Tisavar"@fr;
+        th:aIdentifiantWikidata  "Q14612528";
+        th:aLatitude             "33.008602777"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.616216666"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Tisavar"@fr .
+
+wd:Q16128057  rdf:type           th:Monument;
+        rdfs:label               "place de la Kasbah"@fr;
+        th:aIdentifiantWikidata  "Q16128057";
+        th:aLatitude             "36.797691"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.167548"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "place de la Kasbah"@fr .
+
+wd:Q42605890  rdf:type           th:Monument;
+        rdfs:label               "Mausolée punique"@fr;
+        th:aIdentifiantWikidata  "Q42605890";
+        th:aNom                  "Mausolée punique"@fr .
+
+wd:Q42761924  rdf:type           th:Monument;
+        rdfs:label               "mausolée à l'inscription latine"@fr;
+        th:aIdentifiantWikidata  "Q42761924";
+        th:aNom                  "mausolée à l'inscription latine"@fr .
+
+wd:Q42761169  rdf:type           th:Monument;
+        rdfs:label               "Mausolée de Postumia Matronilla"@fr;
+        th:aIdentifiantWikidata  "Q42761169";
+        th:aNom                  "Mausolée de Postumia Matronilla"@fr .
+
+wd:Q42757730  rdf:type           th:Monument;
+        rdfs:label               "mausolée au bas de la nécropole"@fr;
+        th:aIdentifiantWikidata  "Q42757730";
+        th:aNom                  "mausolée au bas de la nécropole"@fr .
+
+wd:Q42761473  rdf:type           th:Monument;
+        rdfs:label               "mausolée romain, à 6 kilomètres au sud de la station de Kasserine"@fr;
+        th:aIdentifiantWikidata  "Q42761473";
+        th:aNom                  "mausolée romain, à 6 kilomètres au sud de la station de Kasserine"@fr .
+
+wd:Q33133888  rdf:type           th:Monument;
+        rdfs:label               "tourba de Hussein Ier Bey"@fr;
+        th:aIdentifiantWikidata  "Q33133888";
+        th:aLatitude             "36.794753"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.173524"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "tourba de Hussein Ier Bey"@fr .
+
+wd:Q42755729  rdf:type           th:Monument;
+        rdfs:label               "mausolée à 12 côtés"@fr;
+        th:aIdentifiantWikidata  "Q42755729";
+        th:aNom                  "mausolée à 12 côtés"@fr .
+
+wd:Q42761213  rdf:type           th:Monument;
+        rdfs:label               "Mausolée rectangulaire en grand appareil"@fr;
+        th:aIdentifiantWikidata  "Q42761213";
+        th:aNom                  "Mausolée rectangulaire en grand appareil"@fr .
+
+wd:Q42761460  rdf:type           th:Monument;
+        rdfs:label               "tombe romaine"@fr;
+        th:aIdentifiantWikidata  "Q42761460";
+        th:aNom                  "tombe romaine"@fr .
+
+wd:Q42756696  rdf:type           th:Monument;
+        rdfs:label               "mégalithes"@fr;
+        th:aIdentifiantWikidata  "Q42756696";
+        th:aNom                  "mégalithes"@fr .
+
+wd:Q131694681  rdf:type          th:Monument;
+        rdfs:label               "mémorial aux parachutistes italiens tombés en Tunisie"@fr;
+        th:aIdentifiantWikidata  "Q131694681";
+        th:aLatitude             "36.151163888"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.336183333"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "mémorial aux parachutistes italiens tombés en Tunisie"@fr .
+
+wd:Q42758076  rdf:type           th:Monument;
+        rdfs:label               "forteresse byzantine et ruines romaines d'henchir Aïn Aghrab située à peu de distance du Fondouk el Aouareb"@fr;
+        th:aIdentifiantWikidata  "Q42758076";
+        th:aNom                  "forteresse byzantine et ruines romaines d'henchir Aïn Aghrab située à peu de distance du Fondouk el Aouareb"@fr .
+
+wd:Q42756452  rdf:type           th:Monument;
+        rdfs:label               "mausolée à deux étages"@fr;
+        th:aIdentifiantWikidata  "Q42756452";
+        th:aNom                  "mausolée à deux étages"@fr .
+
+wd:Q42606422  rdf:type           th:Monument;
+        rdfs:label               "Mausolée"@fr;
+        th:aIdentifiantWikidata  "Q42606422";
+        th:aNom                  "Mausolée"@fr .
+
+wd:Q42599559  rdf:type           th:Monument;
+        rdfs:label               "Tourbet Aziza Othmana"@fr;
+        th:aIdentifiantWikidata  "Q42599559";
+        th:aLatitude             "36.7981224"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.170948"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Tourbet Aziza Othmana"@fr .
+
+wd:Q123149612  rdf:type          th:Monument;
+        rdfs:label               "mausolée de Yossef El Maarabi"@fr;
+        th:aIdentifiantWikidata  "Q123149612";
+        th:aLatitude             "33.881855031"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.800819957"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "mausolée de Yossef El Maarabi"@fr .
+
+wd:Q42757026  rdf:type           th:Monument;
+        rdfs:label               "mausolée de M. Cornelius Rufus"@fr;
+        th:aIdentifiantWikidata  "Q42757026";
+        th:aNom                  "mausolée de M. Cornelius Rufus"@fr .
+
+wd:Q42759745  rdf:type           th:Monument;
+        rdfs:label               "mausolée romain"@fr;
+        th:aIdentifiantWikidata  "Q42759745";
+        th:aNom                  "mausolée romain"@fr .
+
+wd:Q42761130  rdf:type           th:Monument;
+        rdfs:label               "mausolée romain"@fr;
+        th:aIdentifiantWikidata  "Q42761130";
+        th:aNom                  "mausolée romain"@fr .
+
+wd:Q42757265  rdf:type           th:Monument;
+        rdfs:label               "mausolée à deux étages"@fr;
+        th:aIdentifiantWikidata  "Q42757265";
+        th:aNom                  "mausolée à deux étages"@fr .
+
+wd:Q42755187  rdf:type           th:Monument;
+        rdfs:label               "arc de Caracalla et de Julia Domna"@fr;
+        th:aIdentifiantWikidata  "Q42755187";
+        th:aNom                  "arc de Caracalla et de Julia Domna"@fr .
+
+wd:Q2091585  rdf:type            th:Monument;
+        rdfs:label               "arc de Septime Sévère"@fr;
+        th:aIdentifiantWikidata  "Q2091585";
+        th:aLatitude             "36.4218"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.2214"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "arc de Septime Sévère"@fr .
+
+wd:Q42765683  rdf:type           th:Monument;
+        rdfs:label               "mausolée"@fr;
+        th:aIdentifiantWikidata  "Q42765683";
+        th:aNom                  "mausolée"@fr .
+
+wd:Q1053530  rdf:type            th:Monument;
+        rdfs:label               "centenarium de Tibubuci"@fr;
+        th:aIdentifiantWikidata  "Q1053530";
+        th:aLatitude             "33.216138888"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.800388888"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "centenarium de Tibubuci"@fr .
+
+wd:Q89046137  rdf:type           th:Monument;
+        rdfs:label               "baptistère d'El Kantara"@fr;
+        th:aIdentifiantWikidata  "Q89046137";
+        th:aNom                  "baptistère d'El Kantara"@fr .
+
+wd:Q42759249  rdf:type           th:Monument;
+        rdfs:label               "Mausolée"@fr;
+        th:aIdentifiantWikidata  "Q42759249";
+        th:aNom                  "Mausolée"@fr .
+
+wd:Q1564631  rdf:type            th:Monument;
+        rdfs:label               "Benia Guedah Ceder"@fr;
+        th:aIdentifiantWikidata  "Q1564631";
+        th:aLatitude             "33.655177777"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.616063888"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Benia Guedah Ceder"@fr .
+
+wd:Q42757540  rdf:type           th:Monument;
+        rdfs:label               "mausolée près de la zaouïa"@fr;
+        th:aIdentifiantWikidata  "Q42757540";
+        th:aNom                  "mausolée près de la zaouïa"@fr .
+
+wd:Q42757812  rdf:type           th:Monument;
+        rdfs:label               "mausolée"@fr;
+        th:aIdentifiantWikidata  "Q42757812";
+        th:aNom                  "mausolée"@fr .
+
+wd:Q42756905  rdf:type           th:Monument;
+        rdfs:label               "mausolée de C. Verrius Rogatus"@fr;
+        th:aIdentifiantWikidata  "Q42756905";
+        th:aNom                  "mausolée de C. Verrius Rogatus"@fr .
+
+wd:Q42759553  rdf:type           th:Monument;
+        rdfs:label               "mausolée carré"@fr;
+        th:aIdentifiantWikidata  "Q42759553";
+        th:aNom                  "mausolée carré"@fr .
+
+wd:Q42760015  rdf:type           th:Monument;
+        rdfs:label               "petit arc triomphal sur la rive droite de l'oued"@fr;
+        th:aIdentifiantWikidata  "Q42760015";
+        th:aNom                  "petit arc triomphal sur la rive droite de l'oued"@fr .
+
+wd:Q42758179  rdf:type           th:Monument;
+        rdfs:label               "mausolée"@fr;
+        th:aIdentifiantWikidata  "Q42758179";
+        th:aNom                  "mausolée"@fr .
+
+wd:Q28496279  rdf:type           th:Monument;
+        rdfs:label               "tourbet Kabira Mamiyya"@fr;
+        th:aIdentifiantWikidata  "Q28496279";
+        th:aNom                  "tourbet Kabira Mamiyya"@fr .
+
+wd:Q33177222  rdf:type           th:Monument;
+        rdfs:label               "Tourbet Sidi Bou Khrissane"@fr;
+        th:aIdentifiantWikidata  "Q33177222";
+        th:aLatitude             "36.796041"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.169287"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Tourbet Sidi Bou Khrissane"@fr .
+
+wd:Q42759950  rdf:type           th:Monument;
+        rdfs:label               "mausolée en forme de temple, à quatre colonnes corinthiennes sur un soubassement portant une inscription latine"@fr;
+        th:aIdentifiantWikidata  "Q42759950";
+        th:aNom                  "mausolée en forme de temple, à quatre colonnes corinthiennes sur un soubassement portant une inscription latine"@fr .
+
+wd:Q42760700  rdf:type           th:Monument;
+        rdfs:label               "mausolée des Flavii"@fr;
+        th:aIdentifiantWikidata  "Q42760700";
+        th:aLatitude             "35.173798695"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "8.798011724"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "mausolée des Flavii"@fr .
+
+wd:Q42755648  rdf:type           th:Monument;
+        rdfs:label               "mausolée à pilastres corinthiens"@fr;
+        th:aIdentifiantWikidata  "Q42755648";
+        th:aNom                  "mausolée à pilastres corinthiens"@fr .
+
+wd:Q3332775  rdf:type            th:Monument;
+        rdfs:label               "mégalithes de Tunisie"@fr;
+        th:aIdentifiantWikidata  "Q3332775";
+        th:aNom                  "mégalithes de Tunisie"@fr .
+
+wd:Q42755124  rdf:type           th:Monument;
+        rdfs:label               "Arc triomphal du nord"@fr;
+        th:aIdentifiantWikidata  "Q42755124";
+        th:aNom                  "Arc triomphal du nord"@fr .
+
+wd:Q42602405  rdf:type           th:Monument;
+        rdfs:label               "mausolée situé à mi-chemin entre les bornes kilométriques 37 et 38 de la route de Tunis à Pont-du-Fahs"@fr;
+        th:aIdentifiantWikidata  "Q42602405";
+        th:aNom                  "mausolée situé à mi-chemin entre les bornes kilométriques 37 et 38 de la route de Tunis à Pont-du-Fahs"@fr .
+
+wd:Q42756542  rdf:type           th:Monument;
+        rdfs:label               "mausolée"@fr;
+        th:aIdentifiantWikidata  "Q42756542";
+        th:aNom                  "mausolée"@fr .
+
+wd:Q42603888  rdf:type           th:Monument;
+        rdfs:label               "Mausolée"@fr;
+        th:aIdentifiantWikidata  "Q42603888";
+        th:aNom                  "Mausolée"@fr .
+
+wd:Q42761679  rdf:type           th:Monument;
+        rdfs:label               "tombe romaine"@fr;
+        th:aIdentifiantWikidata  "Q42761679";
+        th:aNom                  "tombe romaine"@fr .
+
+wd:Q42602522  rdf:type           th:Monument;
+        rdfs:label               "porte romaine"@fr;
+        th:aIdentifiantWikidata  "Q42602522";
+        th:aLatitude             "36.3989646"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.149981"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "porte romaine"@fr .
+
+wd:Q42761910  rdf:type           th:Monument;
+        rdfs:label               "mausolée hexagonal"@fr;
+        th:aIdentifiantWikidata  "Q42761910";
+        th:aNom                  "mausolée hexagonal"@fr .
+
+wd:Q42755752  rdf:type           th:Monument;
+        rdfs:label               "mausolée à deux étages que décorent des colonnes engagées d'ordre corinthien"@fr;
+        th:aIdentifiantWikidata  "Q42755752";
+        th:aNom                  "mausolée à deux étages que décorent des colonnes engagées d'ordre corinthien"@fr .
+
+wd:Q42757749  rdf:type           th:Monument;
+        rdfs:label               "mausolée"@fr;
+        th:aIdentifiantWikidata  "Q42757749";
+        th:aNom                  "mausolée"@fr .

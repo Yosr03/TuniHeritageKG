@@ -1,0 +1,623 @@
+PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX th:   <http://www.tuniheritage.tn/ontology#>
+PREFIX wd:   <http://www.wikidata.org/entity/>
+
+wd:Q269424  rdf:type             th:SiteArcheologique;
+        rdfs:label               "Oudna"@fr;
+        th:aIdentifiantWikidata  "Q269424";
+        th:aLatitude             "36.608467"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.171708"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Oudna"@fr .
+
+wd:Q19287775  rdf:type           th:SiteArcheologique;
+        rdfs:label               "Tillibari"@fr;
+        th:aIdentifiantWikidata  "Q19287775";
+        th:aLatitude             "32.313919444"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.397994444"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Tillibari"@fr .
+
+wd:Q962131  rdf:type             th:SiteArcheologique;
+        rdfs:label               "quartier Magon"@fr;
+        th:aIdentifiantWikidata  "Q962131";
+        th:aLatitude             "36.8512"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.3313"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "quartier Magon"@fr .
+
+wd:Q440812  rdf:type             th:SiteArcheologique;
+        rdfs:label               "Althiburos"@fr;
+        th:aIdentifiantWikidata  "Q440812";
+        th:aLatitude             "35.87344444"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "8.78686111"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Althiburos"@fr .
+
+wd:Q42762630  rdf:type           th:SiteArcheologique;
+        rdfs:label               "nymphée de Pheradi Majus"@fr;
+        th:aIdentifiantWikidata  "Q42762630";
+        th:aLatitude             "36.248305"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.399641"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "nymphée de Pheradi Majus"@fr .
+
+wd:Q42765635  rdf:type           th:SiteArcheologique;
+        rdfs:label               "camp romain"@fr;
+        th:aIdentifiantWikidata  "Q42765635";
+        th:aLatitude             "32.318827"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.406937"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "camp romain"@fr .
+
+wd:Q3378708  rdf:type            th:SiteArcheologique;
+        rdfs:label               "Pheradi Majus"@fr;
+        th:aIdentifiantWikidata  "Q3378708";
+        th:aLatitude             "36.251981"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.40034"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Pheradi Majus"@fr .
+
+wd:Q322928  rdf:type             th:SiteArcheologique;
+        rdfs:label               "Abora"@fr;
+        th:aIdentifiantWikidata  "Q322928";
+        th:aNom                  "Abora"@fr .
+
+wd:Q15851743  rdf:type           th:SiteArcheologique;
+        rdfs:label               "Turris Tamalleni"@fr;
+        th:aIdentifiantWikidata  "Q15851743";
+        th:aLatitude             "33.716724"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "8.920657"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Turris Tamalleni"@fr .
+
+wd:Q11938507  rdf:type           th:SiteArcheologique;
+        rdfs:label               "nécropole de Carthage"@fr;
+        th:aIdentifiantWikidata  "Q11938507";
+        th:aNom                  "nécropole de Carthage"@fr .
+
+wd:Q2281073  rdf:type            th:SiteArcheologique;
+        rdfs:label               "Sicca"@fr;
+        th:aIdentifiantWikidata  "Q2281073";
+        th:aLatitude             "36.173611"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "8.704167"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Sicca"@fr .
+
+wd:Q3076106  rdf:type            th:SiteArcheologique;
+        rdfs:label               "fontaine aux mille amphores"@fr;
+        th:aIdentifiantWikidata  "Q3076106";
+        th:aNom                  "fontaine aux mille amphores"@fr .
+
+wd:Q42760640  rdf:type           th:SiteArcheologique;
+        rdfs:label               "gradins du théâtre, entre le Koudiat-es-Safra et l'oued bou Haya"@fr;
+        th:aIdentifiantWikidata  "Q42760640";
+        th:aNom                  "gradins du théâtre, entre le Koudiat-es-Safra et l'oued bou Haya"@fr .
+
+wd:Q3306003  rdf:type            th:SiteArcheologique;
+        rdfs:label               "Meninx"@fr;
+        th:aIdentifiantWikidata  "Q3306003";
+        th:aLatitude             "33.685817"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.922214"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Meninx"@fr .
+
+wd:Q33993940  rdf:type           th:SiteArcheologique;
+        rdfs:label               "dolmens du djebel Gorra"@fr;
+        th:aIdentifiantWikidata  "Q33993940";
+        th:aNom                  "dolmens du djebel Gorra"@fr .
+
+wd:Q11925398  rdf:type           th:SiteArcheologique;
+        rdfs:label               "Henchir Tsouriate"@fr;
+        th:aIdentifiantWikidata  "Q11925398";
+        th:aNom                  "Henchir Tsouriate"@fr .
+
+wd:Q3107354  rdf:type            th:SiteArcheologique;
+        rdfs:label               "Raqqada"@fr;
+        th:aIdentifiantWikidata  "Q3107354";
+        th:aLatitude             "35.596243"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.0569"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Raqqada"@fr .
+
+wd:Q42609133  rdf:type           th:SiteArcheologique;
+        rdfs:label               "Cirque présumé, sur la colline du Nord (vestiges de constructions demi-circulaires et restes des mégalilthes voisins)"@fr;
+        th:aIdentifiantWikidata  "Q42609133";
+        th:aLatitude             "36.426605"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.215402"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Cirque présumé, sur la colline du Nord (vestiges de constructions demi-circulaires et restes des mégalilthes voisins)"@fr .
+
+wd:Q2972594  rdf:type            th:SiteArcheologique;
+        rdfs:label               "cimetière des officiales de Carthage"@fr;
+        th:aIdentifiantWikidata  "Q2972594";
+        th:aNom                  "cimetière des officiales de Carthage"@fr .
+
+wd:Q3519416  rdf:type            th:SiteArcheologique;
+        rdfs:label               "Thaenae"@fr;
+        th:aIdentifiantWikidata  "Q3519416";
+        th:aLatitude             "34.655157"^^<http://www.w3.org/2001/XMLSchema#double> , "34.687333"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.668197"^^<http://www.w3.org/2001/XMLSchema#double> , "10.7205"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Thaenae"@fr .
+
+wd:Q42759033  rdf:type           th:SiteArcheologique;
+        rdfs:label               "nécropole de Haouch Taacha"@fr;
+        th:aIdentifiantWikidata  "Q42759033";
+        th:aLatitude             "35.266872752"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.933707545"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "nécropole de Haouch Taacha"@fr .
+
+wd:Q18040806  rdf:type           th:SiteArcheologique;
+        rdfs:label               "Ammaedara"@fr;
+        th:aIdentifiantWikidata  "Q18040806";
+        th:aNom                  "Ammaedara"@fr .
+
+wd:Q6985710  rdf:type            th:SiteArcheologique;
+        rdfs:label               "nécropole de Kerkouane"@fr;
+        th:aIdentifiantWikidata  "Q6985710";
+        th:aLatitude             "36.955969444"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "11.086291666"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "nécropole de Kerkouane"@fr .
+
+wd:Q9049104  rdf:type            th:SiteArcheologique;
+        rdfs:label               "nécropole dolménique de Dougga"@fr;
+        th:aIdentifiantWikidata  "Q9049104";
+        th:aNom                  "nécropole dolménique de Dougga"@fr .
+
+wd:Q27972441  rdf:type           th:SiteArcheologique;
+        rdfs:label               "Ksar Ibn El Jaâd"@fr;
+        th:aIdentifiantWikidata  "Q27972441";
+        th:aLatitude             "35.787167"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.834028"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Ksar Ibn El Jaâd"@fr .
+
+wd:Q2876389  rdf:type            th:SiteArcheologique;
+        rdfs:label               "Aïn Tounga"@fr;
+        th:aIdentifiantWikidata  "Q2876389";
+        th:aLatitude             "36.5238"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.3596"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Aïn Tounga"@fr .
+
+wd:Q11918356  rdf:type           th:SiteArcheologique;
+        rdfs:label               "Q11918356"@fr;
+        th:aIdentifiantWikidata  "Q11918356";
+        th:aNom                  "Q11918356"@fr .
+
+wd:Q1493784  rdf:type            th:SiteArcheologique;
+        rdfs:label               "Chemtou"@fr;
+        th:aIdentifiantWikidata  "Q1493784";
+        th:aLatitude             "36.4919"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "8.57619"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Chemtou"@fr .
+
+wd:Q65944719  rdf:type           th:SiteArcheologique;
+        rdfs:label               "district des ports puniques et du tophet"@fr;
+        th:aIdentifiantWikidata  "Q65944719";
+        th:aLatitude             "36.8444"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.326"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "district des ports puniques et du tophet"@fr .
+
+wd:Q289618  rdf:type             th:SiteArcheologique;
+        rdfs:label               "Al-Mansuriya"@fr;
+        th:aIdentifiantWikidata  "Q289618";
+        th:aLatitude             "35.658055555"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.113888888"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Al-Mansuriya"@fr .
+
+wd:Q6343  rdf:type               th:SiteArcheologique;
+        rdfs:label               "Carthage"@fr;
+        th:aIdentifiantWikidata  "Q6343";
+        th:aLatitude             "36.847009"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.312944"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Carthage"@fr .
+
+wd:Q3198114  rdf:type            th:SiteArcheologique;
+        rdfs:label               "Kobba Bent el Rey"@fr;
+        th:aIdentifiantWikidata  "Q3198114";
+        th:aNom                  "Kobba Bent el Rey"@fr .
+
+wd:Q3589083  rdf:type            th:SiteArcheologique;
+        rdfs:label               "épave de Mahdia"@fr;
+        th:aIdentifiantWikidata  "Q3589083";
+        th:aLatitude             "35.531944"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "11.124444"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "épave de Mahdia"@fr .
+
+wd:Q42764878  rdf:type           th:SiteArcheologique;
+        rdfs:label               "temple d’Esculape"@fr;
+        th:aIdentifiantWikidata  "Q42764878";
+        th:aLatitude             "33.532385"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.677761"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "temple d’Esculape"@fr .
+
+wd:Q11925395  rdf:type           th:SiteArcheologique;
+        rdfs:label               "Henchir El Diab"@fr;
+        th:aIdentifiantWikidata  "Q11925395";
+        th:aNom                  "Henchir El Diab"@fr .
+
+wd:Q42754548  rdf:type           th:SiteArcheologique;
+        rdfs:label               "théâtre de Chemtou"@fr;
+        th:aIdentifiantWikidata  "Q42754548";
+        th:aLatitude             "36.491465"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "8.571777"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "théâtre de Chemtou"@fr .
+
+wd:Q42760385  rdf:type           th:SiteArcheologique;
+        rdfs:label               "temple isolé"@fr;
+        th:aIdentifiantWikidata  "Q42760385";
+        th:aLatitude             "35.243281"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.116375"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "temple isolé"@fr .
+
+wd:Q8772807  rdf:type            th:SiteArcheologique;
+        rdfs:label               "Al-Abbasiyya"@fr;
+        th:aIdentifiantWikidata  "Q8772807";
+        th:aNom                  "Al-Abbasiyya"@fr .
+
+wd:Q1536583  rdf:type            th:SiteArcheologique;
+        rdfs:label               "Sbeïtla"@fr;
+        th:aIdentifiantWikidata  "Q1536583";
+        th:aLatitude             "35.240380555"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.120319444"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Sbeïtla"@fr .
+
+wd:Q2983443  rdf:type            th:SiteArcheologique;
+        rdfs:label               "colline de l'odéon et parc des villas romaines de Carthage"@fr;
+        th:aIdentifiantWikidata  "Q2983443";
+        th:aLatitude             "36.8581"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.3308"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "colline de l'odéon et parc des villas romaines de Carthage"@fr .
+
+wd:Q42759152  rdf:type           th:SiteArcheologique;
+        rdfs:label               "temple romain"@fr;
+        th:aIdentifiantWikidata  "Q42759152";
+        th:aNom                  "temple romain"@fr .
+
+wd:Q42760271  rdf:type           th:SiteArcheologique;
+        rdfs:label               "nymphée demi-circulaire"@fr;
+        th:aIdentifiantWikidata  "Q42760271";
+        th:aNom                  "nymphée demi-circulaire"@fr .
+
+wd:Q5810168  rdf:type            th:SiteArcheologique;
+        rdfs:label               "temple de Massinissa divinisé"@fr;
+        th:aIdentifiantWikidata  "Q5810168";
+        th:aNom                  "temple de Massinissa divinisé"@fr .
+
+wd:Q145318  rdf:type             th:SiteArcheologique;
+        rdfs:label               "Zama Minor"@fr;
+        th:aIdentifiantWikidata  "Q145318";
+        th:aLatitude             "36.111851"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.285484"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Zama Minor"@fr .
+
+wd:Q3485394  rdf:type            th:SiteArcheologique;
+        rdfs:label               "Makthar"@fr;
+        th:aIdentifiantWikidata  "Q3485394";
+        th:aLatitude             "35.8556"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.20639"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Makthar"@fr .
+
+wd:Q42764906  rdf:type           th:SiteArcheologique;
+        rdfs:label               "temple de Mercure"@fr;
+        th:aIdentifiantWikidata  "Q42764906";
+        th:aLatitude             "33.529259"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.674495"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "temple de Mercure"@fr .
+
+wd:Q42755146  rdf:type           th:SiteArcheologique;
+        rdfs:label               "théâtre d'Assuras"@fr;
+        th:aIdentifiantWikidata  "Q42755146";
+        th:aLatitude             "35.994416666"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.020555555"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "théâtre d'Assuras"@fr .
+
+wd:Q17561462  rdf:type           th:SiteArcheologique;
+        rdfs:label               "Haïdra"@fr;
+        th:aIdentifiantWikidata  "Q17561462";
+        th:aLatitude             "35.5672"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "8.4597"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Haïdra"@fr .
+
+wd:Q136416263  rdf:type          th:SiteArcheologique;
+        rdfs:label               "Roman Theater at Utica"@fr;
+        th:aIdentifiantWikidata  "Q136416263";
+        th:aLatitude             "37.052574261"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.0572884"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Roman Theater at Utica"@fr .
+
+wd:Q2941582  rdf:type            th:SiteArcheologique;
+        rdfs:label               "catacombes de Sousse"@fr;
+        th:aIdentifiantWikidata  "Q2941582";
+        th:aLatitude             "35.8181"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.626461"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "catacombes de Sousse"@fr .
+
+wd:Q11954828  rdf:type           th:SiteArcheologique;
+        rdfs:label               "villas romaines de Carthage"@fr;
+        th:aIdentifiantWikidata  "Q11954828";
+        th:aLatitude             "36.854444444"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.335"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "villas romaines de Carthage"@fr .
+
+wd:Q6141028  rdf:type            th:SiteArcheologique;
+        rdfs:label               "temple d'Eshmoun"@fr;
+        th:aIdentifiantWikidata  "Q6141028";
+        th:aNom                  "temple d'Eshmoun"@fr .
+
+wd:Q334495  rdf:type             th:SiteArcheologique;
+        rdfs:label               "Abthugni"@fr;
+        th:aIdentifiantWikidata  "Q334495";
+        th:aLatitude             "36.2"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.0167"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Abthugni"@fr .
+
+wd:Q305556  rdf:type             th:SiteArcheologique;
+        rdfs:label               "Abari"@fr;
+        th:aIdentifiantWikidata  "Q305556";
+        th:aNom                  "Abari"@fr .
+
+wd:Q42602093  rdf:type           th:SiteArcheologique;
+        rdfs:label               "nécropole romaine fouillée en 1914"@fr;
+        th:aIdentifiantWikidata  "Q42602093";
+        th:aNom                  "nécropole romaine fouillée en 1914"@fr .
+
+wd:Q2316992  rdf:type            th:SiteArcheologique;
+        rdfs:label               "Limes Tripolitanus"@fr;
+        th:aIdentifiantWikidata  "Q2316992";
+        th:aLatitude             "30.14166667"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.50833333"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Limes Tripolitanus"@fr .
+
+wd:Q2974258  rdf:type            th:SiteArcheologique;
+        rdfs:label               "cirque de Carthage"@fr;
+        th:aIdentifiantWikidata  "Q2974258";
+        th:aLatitude             "36.8508"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.3137"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "cirque de Carthage"@fr .
+
+wd:Q9085753  rdf:type            th:SiteArcheologique;
+        rdfs:label               "temple de Pluton"@fr;
+        th:aIdentifiantWikidata  "Q9085753";
+        th:aLatitude             "36.42209"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.22065"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "temple de Pluton"@fr .
+
+wd:Q42596762  rdf:type           th:SiteArcheologique;
+        rdfs:label               "nécropole de Dermech"@fr;
+        th:aIdentifiantWikidata  "Q42596762";
+        th:aNom                  "nécropole de Dermech"@fr .
+
+wd:Q11925397  rdf:type           th:SiteArcheologique;
+        rdfs:label               "Henchir En Nebch"@fr;
+        th:aIdentifiantWikidata  "Q11925397";
+        th:aNom                  "Henchir En Nebch"@fr .
+
+wd:Q42760330  rdf:type           th:SiteArcheologique;
+        rdfs:label               "théâtre de Kasserine"@fr;
+        th:aIdentifiantWikidata  "Q42760330";
+        th:aLatitude             "35.16753"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "8.79936"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "théâtre de Kasserine"@fr .
+
+wd:Q3130225  rdf:type            th:SiteArcheologique;
+        rdfs:label               "Henchir Bourgou"@fr;
+        th:aIdentifiantWikidata  "Q3130225";
+        th:aLatitude             "33.8198"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.9702"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Henchir Bourgou"@fr .
+
+wd:Q42596725  rdf:type           th:SiteArcheologique;
+        rdfs:label               "Tombeaux puniques (ruines du plateau Saint-Louis)"@fr;
+        th:aIdentifiantWikidata  "Q42596725";
+        th:aNom                  "Tombeaux puniques (ruines du plateau Saint-Louis)"@fr .
+
+wd:Q29002285  rdf:type           th:SiteArcheologique;
+        rdfs:label               "Thimisua"@fr;
+        th:aIdentifiantWikidata  "Q29002285";
+        th:aLatitude             "36.3107"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.3192"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Thimisua"@fr .
+
+wd:Q3346870  rdf:type            th:SiteArcheologique;
+        rdfs:label               "nécropole de Pupput"@fr;
+        th:aIdentifiantWikidata  "Q3346870";
+        th:aNom                  "nécropole de Pupput"@fr .
+
+wd:Q286794  rdf:type             th:SiteArcheologique;
+        rdfs:label               "Salakta"@fr;
+        th:aIdentifiantWikidata  "Q286794";
+        th:aLatitude             "35.392283"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "11.048438"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Salakta"@fr .
+
+wd:Q3572870  rdf:type            th:SiteArcheologique;
+        rdfs:label               "Younga"@fr;
+        th:aIdentifiantWikidata  "Q3572870";
+        th:aLatitude             "34.4672"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.4112"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Younga"@fr .
+
+wd:Q42755885  rdf:type           th:SiteArcheologique;
+        rdfs:label               "théâtre d'Althiburos"@fr;
+        th:aIdentifiantWikidata  "Q42755885";
+        th:aLatitude             "35.872652"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "8.786351"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "théâtre d'Althiburos"@fr .
+
+wd:Q538061  rdf:type             th:SiteArcheologique;
+        rdfs:label               "Kerkouane"@fr;
+        th:aIdentifiantWikidata  "Q538061";
+        th:aLatitude             "36.946388888"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "11.099166666"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Kerkouane"@fr .
+
+wd:Q42594312  rdf:type           th:SiteArcheologique;
+        rdfs:label               "caveaux funéraires du djebel Khaoui"@fr;
+        th:aIdentifiantWikidata  "Q42594312";
+        th:aNom                  "caveaux funéraires du djebel Khaoui"@fr .
+
+wd:Q66425474  rdf:type           th:SiteArcheologique;
+        rdfs:label               "limes du djebel Tebaga"@fr;
+        th:aIdentifiantWikidata  "Q66425474";
+        th:aLatitude             "33.655"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.616"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "limes du djebel Tebaga"@fr .
+
+wd:Q42610338  rdf:type           th:SiteArcheologique;
+        rdfs:label               "ruines du temple consacré à Jupiter, Junon et Minerve"@fr;
+        th:aIdentifiantWikidata  "Q42610338";
+        th:aNom                  "ruines du temple consacré à Jupiter, Junon et Minerve"@fr .
+
+wd:Q1018648  rdf:type            th:SiteArcheologique;
+        rdfs:label               "Byrsa"@fr;
+        th:aIdentifiantWikidata  "Q1018648";
+        th:aLatitude             "36.85222222"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.32388889"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Byrsa"@fr .
+
+wd:Q11951246  rdf:type           th:SiteArcheologique;
+        rdfs:label               "temple de Saturne"@fr;
+        th:aIdentifiantWikidata  "Q11951246";
+        th:aLatitude             "36.42555"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.22063"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "temple de Saturne"@fr .
+
+wd:Q28456294  rdf:type           th:SiteArcheologique;
+        rdfs:label               "Vallis"@fr;
+        th:aIdentifiantWikidata  "Q28456294";
+        th:aLatitude             "36.6091"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.7411"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Vallis"@fr .
+
+wd:Q166523  rdf:type             th:SiteArcheologique;
+        rdfs:label               "Utique"@fr;
+        th:aIdentifiantWikidata  "Q166523";
+        th:aLatitude             "37.054967"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.061128"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Utique"@fr .
+
+wd:Q29002295  rdf:type           th:SiteArcheologique;
+        rdfs:label               "Henchir-Ed-Douamès"@fr;
+        th:aIdentifiantWikidata  "Q29002295";
+        th:aLatitude             "36.4123"^^<http://www.w3.org/2001/XMLSchema#double> , "36.412222222"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.08498"^^<http://www.w3.org/2001/XMLSchema#double> , "9.085"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Henchir-Ed-Douamès"@fr .
+
+wd:Q3579117  rdf:type            th:SiteArcheologique;
+        rdfs:label               "édifice à colonnes de Carthage"@fr;
+        th:aIdentifiantWikidata  "Q3579117";
+        th:aLatitude             "36.8566"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.3253"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "édifice à colonnes de Carthage"@fr .
+
+wd:Q30591933  rdf:type           th:SiteArcheologique;
+        rdfs:label               "Henchir el Matria"@fr;
+        th:aIdentifiantWikidata  "Q30591933";
+        th:aLatitude             "36.523166666"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.21975"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Henchir el Matria"@fr .
+
+wd:Q15059885  rdf:type           th:SiteArcheologique;
+        rdfs:label               "Limes Africanus"@fr;
+        th:aIdentifiantWikidata  "Q15059885";
+        th:aNom                  "Limes Africanus"@fr .
+
+wd:Q48739958  rdf:type           th:SiteArcheologique;
+        rdfs:label               "Marazanae"@fr;
+        th:aIdentifiantWikidata  "Q48739958";
+        th:aNom                  "Marazanae"@fr .
+
+wd:Q16175298  rdf:type           th:SiteArcheologique;
+        rdfs:label               "quartier Hannibal"@fr;
+        th:aIdentifiantWikidata  "Q16175298";
+        th:aLatitude             "36.852461"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.322823"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "quartier Hannibal"@fr .
+
+wd:Q32378  rdf:type              th:SiteArcheologique;
+        rdfs:label               "Dougga"@fr;
+        th:aIdentifiantWikidata  "Q32378";
+        th:aLatitude             "36.42333333"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.22027778"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Dougga"@fr .
+
+wd:Q42609741  rdf:type           th:SiteArcheologique;
+        rdfs:label               "Édifice demi-circulaire dont il subsiste un mur extérieur assez élevé ainsi que le soubassement d'un édifice rectangulaire"@fr;
+        th:aIdentifiantWikidata  "Q42609741";
+        th:aLatitude             "36.522862"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.362426"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Édifice demi-circulaire dont il subsiste un mur extérieur assez élevé ainsi que le soubassement d'un édifice rectangulaire"@fr .
+
+wd:Q17379233  rdf:type           th:SiteArcheologique;
+        rdfs:label               "Acholla"@fr;
+        th:aIdentifiantWikidata  "Q17379233";
+        th:aLatitude             "35.129754"^^<http://www.w3.org/2001/XMLSchema#double> , "35.0796"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "11.03359"^^<http://www.w3.org/2001/XMLSchema#double> , "11.020575"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Acholla"@fr .
+
+wd:Q42762518  rdf:type           th:SiteArcheologique;
+        rdfs:label               "sanctuaire punique"@fr;
+        th:aIdentifiantWikidata  "Q42762518";
+        th:aLatitude             "35.680097"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.550531"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "sanctuaire punique"@fr .
+
+wd:Q2736539  rdf:type            th:SiteArcheologique;
+        rdfs:label               "Hadrumète"@fr;
+        th:aIdentifiantWikidata  "Q2736539";
+        th:aLatitude             "35.825866"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.63878"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Hadrumète"@fr .
+
+wd:Q12233009  rdf:type           th:SiteArcheologique;
+        rdfs:label               "Ksar Lemsa"@fr;
+        th:aIdentifiantWikidata  "Q12233009";
+        th:aLatitude             "36.0368"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.69144"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Ksar Lemsa"@fr .
+
+wd:Q42760350  rdf:type           th:SiteArcheologique;
+        rdfs:label               "théâtre de Sufutela"@fr;
+        th:aIdentifiantWikidata  "Q42760350";
+        th:aLatitude             "35.239608"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.12244"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "théâtre de Sufutela"@fr .
+
+wd:Q42604032  rdf:type           th:SiteArcheologique;
+        rdfs:label               "mausolées (dont 2 bien conservés) qui bordent une voie antique"@fr;
+        th:aIdentifiantWikidata  "Q42604032";
+        th:aNom                  "mausolées (dont 2 bien conservés) qui bordent une voie antique"@fr .
+
+wd:Q9085760  rdf:type            th:SiteArcheologique;
+        rdfs:label               "temple des Victoires de Caracalla"@fr;
+        th:aIdentifiantWikidata  "Q9085760";
+        th:aNom                  "temple des Victoires de Caracalla"@fr .
+
+wd:Q3526009  rdf:type            th:SiteArcheologique;
+        rdfs:label               "Thuburnica"@fr;
+        th:aIdentifiantWikidata  "Q3526009";
+        th:aLatitude             "36.526666666"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "8.470555555"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Thuburnica"@fr .
+
+wd:Q2291068  rdf:type            th:SiteArcheologique;
+        rdfs:label               "théâtre de Dougga"@fr;
+        th:aIdentifiantWikidata  "Q2291068";
+        th:aLatitude             "36.42379"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.2203"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "théâtre de Dougga"@fr .
+
+wd:Q33059659  rdf:type           th:SiteArcheologique;
+        rdfs:label               "forteresse romaine de Dougga"@fr;
+        th:aIdentifiantWikidata  "Q33059659";
+        th:aLatitude             "36.4145"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.246"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "forteresse romaine de Dougga"@fr .
+
+wd:Q2837010  rdf:type            th:SiteArcheologique;
+        rdfs:label               "Kbor Klib"@fr;
+        th:aIdentifiantWikidata  "Q2837010";
+        th:aLatitude             "36.0125"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.218611111"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Kbor Klib"@fr .
+
+wd:Q1967945  rdf:type            th:SiteArcheologique;
+        rdfs:label               "Thuburbo Majus"@fr;
+        th:aIdentifiantWikidata  "Q1967945";
+        th:aLatitude             "36.4025"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.90306"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Thuburbo Majus"@fr .
+
+wd:Q11925396  rdf:type           th:SiteArcheologique;
+        rdfs:label               "Henchir Mastoura"@fr;
+        th:aIdentifiantWikidata  "Q11925396";
+        th:aNom                  "Henchir Mastoura"@fr .

@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>TuniHeritageKG — Patrimoine tunisien</title>
+
+    <link rel="stylesheet" href="/style.css?v=31">
+
+    <link
+            rel="stylesheet"
+            href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    >
+</head>
+
+<body>
+
+<header class="navbar">
+    <div class="logo">
+        TuniHeritage<span>KG</span>
+    </div>
+
+    <nav>
+        <a href="#accueil">Accueil</a>
+        <a href="#statistiques">Statistiques</a>
+        <a href="#explorer">Explorer</a>
+        <a href="#carte">Carte interactive</a>
+    </nav>
+</header>
+
+<main>
+
+    <!-- ACCUEIL -->
+    <section class="hero" id="accueil">
+        <div class="hero-content">
+
+            <p class="eyebrow">
+                PATRIMOINE CULTUREL TUNISIEN
+            </p>
+
+            <h1>
+                Explorez les trésors de la Tunisie
+            </h1>
+
+            <p>
+                Découvrez les sites archéologiques,
+                monuments, musées et traditions
+                tunisiennes grâce aux technologies
+                du Web sémantique.
+            </p>
+
+            <a class="btn" href="#explorer">
+                Explorer le patrimoine
+            </a>
+
+        </div>
+    </section>
+
+    <!-- STATISTIQUES -->
+    <section class="section" id="statistiques">
+
+        <p class="eyebrow">
+            NOTRE BASE DE CONNAISSANCES
+        </p>
+
+        <h2>Le patrimoine en chiffres</h2>
+
+        <div class="stats-grid">
+
+            <div class="stat-card">
+                <h3 id="stat-sites">—</h3>
+                <p>Sites archéologiques</p>
+            </div>
+
+            <div class="stat-card">
+                <h3 id="stat-monuments">—</h3>
+                <p>Monuments</p>
+            </div>
+
+            <div class="stat-card">
+                <h3 id="stat-musees">—</h3>
+                <p>Musées</p>
+            </div>
+
+            <div class="stat-card">
+                <h3 id="stat-traditions">—</h3>
+                <p>Traditions</p>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- EXPLORATION -->
+    <section class="section explorer" id="explorer">
+
+        <p class="eyebrow">DÉCOUVERTE</p>
+
+        <h2>Explorez notre patrimoine</h2>
+
+        <div class="filters">
+
+            <button class="filter-btn active" data-type="sites">
+                Sites archéologiques
+            </button>
+
+            <button class="filter-btn" data-type="monuments">
+                Monuments
+            </button>
+
+            <button class="filter-btn" data-type="musees">
+                Musées
+            </button>
+
+            <button class="filter-btn" data-type="traditions">
+                Traditions
+            </button>
+
+        </div>
+
+        <div class="search-area">
+
+            <input
+                    type="text"
+                    id="search-input"
+                    placeholder="Rechercher dans les résultats..."
+            >
+
+            <input
+                    type="text"
+                    id="region-input"
+                    placeholder="Région (ex. Tunis)"
+            >
+
+            <button id="region-btn">
+                Chercher par région
+            </button>
+
+        </div>
+
+        <p id="message"></p>
+
+        <div class="heritage-grid" id="heritage-list">
+        </div>
+
+        <div class="pagination" id="pagination">
+
+            <button id="prev-page" type="button">
+                ←
+            </button>
+
+            <span id="page-info">Page 1</span>
+
+            <button id="next-page" type="button">
+                 →
+            </button>
+
+        </div>
+
+    </section>
+
+    <!-- CARTE INTERACTIVE -->
+    <section class="section map-section" id="carte">
+
+        <p class="eyebrow">
+            EXPLORATION GÉOGRAPHIQUE
+        </p>
+
+        <h2>Le patrimoine tunisien sur la carte</h2>
+
+        <div class="map-container">
+
+            <div
+                    id="map"
+                    role="region"
+                    aria-label="Carte des sites archéologiques tunisiens">
+            </div>
+
+        </div>
+
+    </section>
+
+</main>
+
+<footer>
+    <p>TuniHeritageKG</p>
+    <p>© 2026 TuniHeritageKG</p>
+</footer>
+
+<script
+        src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js">
+</script>
+
+<script src="/script.js?v=31"></script>
+
+</body>
+</html>

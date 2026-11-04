@@ -1,0 +1,140 @@
+
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+@prefix th: <http://www.tuniheritage.tn/ontology#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+
+# Classe principale
+th:PatrimoineCulturel a rdfs:Class ;
+    rdfs:label "Patrimoine culturel"@fr .
+
+# Patrimoine matériel et immatériel
+th:PatrimoineMateriel a rdfs:Class ;
+    rdfs:subClassOf th:PatrimoineCulturel ;
+    rdfs:label "Patrimoine matériel"@fr .
+
+th:PatrimoineImmateriel a rdfs:Class ;
+    rdfs:subClassOf th:PatrimoineCulturel ;
+    rdfs:label "Patrimoine immatériel"@fr .
+
+# Types de patrimoine matériel
+th:SiteArcheologique a rdfs:Class ;
+    rdfs:subClassOf th:PatrimoineMateriel ;
+    rdfs:label "Site archéologique"@fr .
+
+th:Monument a rdfs:Class ;
+    rdfs:subClassOf th:PatrimoineMateriel ;
+    rdfs:label "Monument historique"@fr .
+
+th:Musee a rdfs:Class ;
+    rdfs:subClassOf th:PatrimoineMateriel ;
+    rdfs:label "Musée"@fr .
+
+# Type de patrimoine immatériel
+th:Tradition a rdfs:Class ;
+    rdfs:subClassOf th:PatrimoineImmateriel ;
+    rdfs:label "Tradition culturelle"@fr .
+
+# Classes complémentaires
+th:Lieu a rdfs:Class ;
+    rdfs:label "Lieu géographique"@fr .
+
+th:PeriodeHistorique a rdfs:Class ;
+    rdfs:label "Période historique"@fr .
+
+th:CultureHistorique a rdfs:Class ;
+    rdfs:label "Culture historique"@fr .
+
+
+# ====================================
+# PROPRIETES RDF/RDFS
+# ====================================
+
+# Propriete generale de localisation
+th:estLocaliseDans a rdf:Property ;
+    rdfs:label "est localisé dans"@fr ;
+    rdfs:domain th:PatrimoineCulturel ;
+    rdfs:range th:Lieu .
+
+# Sous-propriete de localisation
+th:estSitueDans a rdf:Property ;
+    rdfs:subPropertyOf th:estLocaliseDans ;
+    rdfs:label "est situé dans"@fr ;
+    rdfs:domain th:PatrimoineMateriel ;
+    rdfs:range th:Lieu .
+
+# Culture associee a un site
+th:appartientAUneCulture a rdf:Property ;
+    rdfs:label "est associé à une culture"@fr ;
+    rdfs:domain th:SiteArcheologique ;
+    rdfs:range th:CultureHistorique .
+
+# Periode historique associee
+th:aPeriodeHistorique a rdf:Property ;
+    rdfs:label "a pour période historique"@fr ;
+    rdfs:domain th:PatrimoineCulturel ;
+    rdfs:range th:PeriodeHistorique .
+
+# Nom de la ressource
+th:aNom a rdf:Property ;
+    rdfs:label "a pour nom"@fr ;
+    rdfs:range rdfs:Literal .
+
+# Description de la ressource
+th:aDescription a rdf:Property ;
+    rdfs:label "a pour description"@fr ;
+    rdfs:range rdfs:Literal .
+
+# Coordonnees geographiques
+th:possedeCoordonnees a rdf:Property ;
+    rdfs:label "possède des coordonnées"@fr ;
+    rdfs:domain th:PatrimoineMateriel ;
+    rdfs:range rdfs:Literal .
+
+# Identifiant Wikidata
+th:aIdentifiantWikidata a rdf:Property ;
+    rdfs:label "a pour identifiant Wikidata"@fr ;
+    rdfs:range rdfs:Literal .
+
+
+# Reutilisation du vocabulaire FOAF
+th:aNom rdfs:subPropertyOf foaf:name .
+
+# REUTILISATION DE DUBLIN CORE
+# Notre description specialise dcterms:description
+th:aDescription rdfs:subPropertyOf dcterms:description .
+
+# Notre identifiant specialise dcterms:identifier
+th:aIdentifiantWikidata rdfs:subPropertyOf dcterms:identifier .
+
+# PROPRIETES GEOGRAPHIQUES WGS84
+th:aLatitude a rdf:Property ;
+    rdfs:label "a pour latitude"@fr ;
+    rdfs:subPropertyOf geo:lat ;
+    rdfs:domain th:PatrimoineMateriel ;
+    rdfs:range rdfs:Literal .
+
+th:aLongitude a rdf:Property ;
+    rdfs:label "a pour longitude"@fr ;
+    rdfs:subPropertyOf geo:long ;
+    rdfs:domain th:PatrimoineMateriel ;
+    rdfs:range rdfs:Literal .
+
+# REUTILISATION DU VOCABULAIRE SKOS
+# Libelle privilegie des concepts historiques
+th:aLibelleConcept a rdf:Property ;
+    rdfs:label "a pour libellé de concept"@fr ;
+    rdfs:subPropertyOf skos:prefLabel ;
+    rdfs:domain rdfs:Resource ;
+    rdfs:range rdfs:Literal .
+
+
+th:aTypeWikidata a rdf:Property ;
+    rdfs:label "a pour type Wikidata"@fr ;
+    rdfs:domain th:PatrimoineImmateriel ;
+    rdfs:range rdfs:Resource .

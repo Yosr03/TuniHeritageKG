@@ -1,0 +1,31 @@
+PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX th:   <http://www.tuniheritage.tn/ontology#>
+PREFIX wd:   <http://www.wikidata.org/entity/>
+
+wd:Q1018648  rdfs:label        "Byrsa"@fr;
+        th:aPeriodeHistorique  wd:Q41493 .
+
+wd:Q2425444  rdfs:label        "Abbir Germaniciana"@fr;
+        th:aPeriodeHistorique  wd:Q486761 .
+
+wd:Q41493  rdf:type  th:PeriodeHistorique;
+        rdfs:label  "Antiquité"@fr .
+
+wd:Q486761  rdf:type  th:PeriodeHistorique;
+        rdfs:label  "Antiquité classique"@fr .
+
+wd:Q829005  rdf:type  th:PeriodeHistorique;
+        rdfs:label  "Épipaléolithique"@fr .
+
+wd:Q60852596  rdfs:label       "Thunusuda"@fr;
+        th:aPeriodeHistorique  wd:Q41493 .
+
+wd:Q30590851  rdfs:label       "Thacia"@fr;
+        th:aPeriodeHistorique  wd:Q41493 , wd:Q202763 .
+
+wd:Q202763  rdf:type  th:PeriodeHistorique;
+        rdfs:label  "Haut Moyen Âge"@fr .
+
+wd:Q132411939  rdfs:label      "Rammadiya d'El Magtaa"@fr;
+        th:aPeriodeHistorique  wd:Q829005 .

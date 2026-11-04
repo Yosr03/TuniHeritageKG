@@ -1,0 +1,572 @@
+PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX th:   <http://www.tuniheritage.tn/ontology#>
+PREFIX wd:   <http://www.wikidata.org/entity/>
+
+wd:Q54965883  rdf:type           th:Musee;
+        rdfs:label               "musée de la mémoire commune tuniso-algérienne"@fr;
+        th:aIdentifiantWikidata  "Q54965883";
+        th:aLatitude             "36.450491"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "8.442349"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée de la mémoire commune tuniso-algérienne"@fr .
+
+wd:Q47004620  rdf:type           th:Musee;
+        rdfs:label               "musée des Arts et Traditions populaires de Monastir"@fr;
+        th:aIdentifiantWikidata  "Q47004620";
+        th:aLatitude             "35.774132"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.831039"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée des Arts et Traditions populaires de Monastir"@fr .
+
+wd:Q3329759  rdf:type            th:Musee;
+        rdfs:label               "musée de Téboursouk"@fr;
+        th:aIdentifiantWikidata  "Q3329759";
+        th:aLatitude             "36.458838"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.24367"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée de Téboursouk"@fr .
+
+wd:Q526903  rdf:type             th:Musee;
+        rdfs:label               "musée archéologique de Sfax"@fr;
+        th:aIdentifiantWikidata  "Q526903";
+        th:aLatitude             "34.732171"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.763925"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée archéologique de Sfax"@fr .
+
+wd:Q54888214  rdf:type           th:Musee;
+        rdfs:label               "musée Dar Khadija"@fr;
+        th:aIdentifiantWikidata  "Q54888214";
+        th:aLatitude             "36.393738"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.613271"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée Dar Khadija"@fr .
+
+wd:Q3329710  rdf:type            th:Musee;
+        rdfs:label               "musée de Bulla Regia"@fr;
+        th:aIdentifiantWikidata  "Q3329710";
+        th:aLatitude             "36.556552"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "8.7545"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée de Bulla Regia"@fr .
+
+wd:Q54888230  rdf:type           th:Musee;
+        rdfs:label               "musée Harzallah de la photographie"@fr;
+        th:aIdentifiantWikidata  "Q54888230";
+        th:aNom                  "musée Harzallah de la photographie"@fr .
+
+wd:Q125287332  rdf:type          th:Musee;
+        rdfs:label               "Eden Palm"@fr;
+        th:aIdentifiantWikidata  "Q125287332";
+        th:aLatitude             "33.91709"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "8.14716"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Eden Palm"@fr .
+
+wd:Q16127719  rdf:type           th:Musee;
+        rdfs:label               "musée des arts islamiques de Monastir"@fr;
+        th:aIdentifiantWikidata  "Q16127719";
+        th:aLatitude             "35.77601"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.833068"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée des arts islamiques de Monastir"@fr .
+
+wd:Q16665608  rdf:type           th:Musee;
+        rdfs:label               "musée Dar Essid"@fr;
+        th:aIdentifiantWikidata  "Q16665608";
+        th:aLatitude             "35.827142"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.6333142"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée Dar Essid"@fr .
+
+wd:Q3330650  rdf:type            th:Musee;
+        rdfs:label               "musée militaire national"@fr;
+        th:aIdentifiantWikidata  "Q3330650";
+        th:aLatitude             "36.8113"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.0985"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée militaire national"@fr .
+
+wd:Q21985025  rdf:type           th:Musee;
+        rdfs:label               "musée des Arts et Traditions populaires du Kef"@fr;
+        th:aIdentifiantWikidata  "Q21985025";
+        th:aLatitude             "36.1828"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "8.7153"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée des Arts et Traditions populaires du Kef"@fr .
+
+wd:Q163299  rdf:type             th:Musee;
+        rdfs:label               "musée de Chemtou"@fr;
+        th:aIdentifiantWikidata  "Q163299";
+        th:aLatitude             "36.48972222"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "8.57694444"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée de Chemtou"@fr .
+
+wd:Q3330045  rdf:type            th:Musee;
+        rdfs:label               "musée de la mémoire nationale"@fr;
+        th:aIdentifiantWikidata  "Q3330045";
+        th:aLatitude             "36.771275"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.170352"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée de la mémoire nationale"@fr .
+
+wd:Q3330061  rdf:type            th:Musee;
+        rdfs:label               "musée de la poste"@fr;
+        th:aIdentifiantWikidata  "Q3330061";
+        th:aLatitude             "36.7966"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.1785"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée de la poste"@fr .
+
+wd:Q2754197  rdf:type            th:Musee;
+        rdfs:label               "musée des finances"@fr;
+        th:aIdentifiantWikidata  "Q2754197";
+        th:aLatitude             "36.8013"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.1783"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée des finances"@fr .
+
+wd:Q3329437  rdf:type            th:Musee;
+        rdfs:label               "musée archéologique de Kerkouane"@fr;
+        th:aIdentifiantWikidata  "Q3329437";
+        th:aLatitude             "36.947035"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "11.098268"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée archéologique de Kerkouane"@fr .
+
+wd:Q3329725  rdf:type            th:Musee;
+        rdfs:label               "musée de Makthar"@fr;
+        th:aIdentifiantWikidata  "Q3329725";
+        th:aLatitude             "35.856"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.20638"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée de Makthar"@fr .
+
+wd:Q1961879  rdf:type            th:Musee;
+        rdfs:label               "musée paléo-chrétien de Carthage"@fr;
+        th:aIdentifiantWikidata  "Q1961879";
+        th:aLatitude             "36.8484"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.3247"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée paléo-chrétien de Carthage"@fr .
+
+wd:Q21295176  rdf:type           th:Musee;
+        rdfs:label               "musée archéologique de Sbeïtla"@fr;
+        th:aIdentifiantWikidata  "Q21295176";
+        th:aLatitude             "35.23"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.13"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée archéologique de Sbeïtla"@fr .
+
+wd:Q3330681  rdf:type            th:Musee;
+        rdfs:label               "musée national d'art islamique de Raqqada"@fr;
+        th:aIdentifiantWikidata  "Q3330681";
+        th:aLatitude             "35.5925"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.05277778"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée national d'art islamique de Raqqada"@fr .
+
+wd:Q3329440  rdf:type            th:Musee;
+        rdfs:label               "musée archéologique de Lamta"@fr;
+        th:aIdentifiantWikidata  "Q3329440";
+        th:aLatitude             "35.67694444"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.87722222"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée archéologique de Lamta"@fr .
+
+wd:Q54888224  rdf:type           th:Musee;
+        rdfs:label               "musée de Guellala"@fr;
+        th:aIdentifiantWikidata  "Q54888224";
+        th:aLatitude             "33.732519"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.865629"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée de Guellala"@fr .
+
+wd:Q54888240  rdf:type           th:Musee;
+        rdfs:label               "musée de l'éducation"@fr;
+        th:aIdentifiantWikidata  "Q54888240";
+        th:aLatitude             "36.801094"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.164266"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée de l'éducation"@fr .
+
+wd:Q3272056  rdf:type            th:Musee;
+        rdfs:label               "Lézard rouge"@fr;
+        th:aIdentifiantWikidata  "Q3272056";
+        th:aLatitude             "34.3333"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "8.3667"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Lézard rouge"@fr .
+
+wd:Q95586313  rdf:type           th:Musee;
+        rdfs:label               "Dar Longo"@fr;
+        th:aIdentifiantWikidata  "Q95586313";
+        th:aLatitude             "34.415001"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "8.787371"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Dar Longo"@fr .
+
+wd:Q95488757  rdf:type           th:Musee;
+        rdfs:label               "musée du tapis de Kairouan"@fr;
+        th:aIdentifiantWikidata  "Q95488757";
+        th:aLatitude             "35.672502"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.099251"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée du tapis de Kairouan"@fr .
+
+wd:Q95492788  rdf:type           th:Musee;
+        rdfs:label               "Centre des musiques arabes et méditerranéennes"@fr;
+        th:aIdentifiantWikidata  "Q95492788";
+        th:aLatitude             "36.866831"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.345667"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Centre des musiques arabes et méditerranéennes"@fr .
+
+wd:Q3329131  rdf:type            th:Musee;
+        rdfs:label               "musée Dar Cheraït"@fr;
+        th:aIdentifiantWikidata  "Q3329131";
+        th:aLatitude             "33.9126"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "8.11981"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée Dar Cheraït"@fr .
+
+wd:Q95148434  rdf:type           th:Musee;
+        rdfs:label               "musée des Arts et Traditions populaires de Tunis"@fr;
+        th:aIdentifiantWikidata  "Q95148434";
+        th:aLatitude             "36.794288"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.171608"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée des Arts et Traditions populaires de Tunis"@fr .
+
+wd:Q54965887  rdf:type           th:Musee;
+        rdfs:label               "musée Chak Wak"@fr;
+        th:aIdentifiantWikidata  "Q54965887";
+        th:aLatitude             "33.911687"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "8.147349"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée Chak Wak"@fr .
+
+wd:Q95586401  rdf:type           th:Musee;
+        rdfs:label               "Dar Sghir"@fr;
+        th:aIdentifiantWikidata  "Q95586401";
+        th:aLatitude             "35.505951"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "11.07584"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Dar Sghir"@fr .
+
+wd:Q3330460  rdf:type            th:Musee;
+        rdfs:label               "musée du patrimoine insulaire de Kerkennah"@fr;
+        th:aIdentifiantWikidata  "Q3330460";
+        th:aLatitude             "34.720062"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "11.243246"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée du patrimoine insulaire de Kerkennah"@fr .
+
+wd:Q12238671  rdf:type           th:Musee;
+        rdfs:label               "Dar Maâkal Az-Zaïm"@fr;
+        th:aIdentifiantWikidata  "Q12238671";
+        th:aLatitude             "36.79322"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.165326"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Dar Maâkal Az-Zaïm"@fr .
+
+wd:Q3330675  rdf:type            th:Musee;
+        rdfs:label               "musée national d'Utique"@fr;
+        th:aIdentifiantWikidata  "Q3330675";
+        th:aLatitude             "37.052067"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.058552"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée national d'Utique"@fr .
+
+wd:Q47004624  rdf:type           th:Musee;
+        rdfs:label               "musée ethnographique de Gabès"@fr;
+        th:aIdentifiantWikidata  "Q47004624";
+        th:aLatitude             "33.868534"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.090831"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée ethnographique de Gabès"@fr .
+
+wd:Q28936489  rdf:type           th:Musee;
+        rdfs:label               "musée de la mémoire de la Terre"@fr;
+        th:aIdentifiantWikidata  "Q28936489";
+        th:aLatitude             "32.917648"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.415182"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée de la mémoire de la Terre"@fr .
+
+wd:Q47288813  rdf:type           th:Musee;
+        rdfs:label               "Dar Am Taïeb"@fr;
+        th:aIdentifiantWikidata  "Q47288813";
+        th:aLatitude             "35.820938"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.630267"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Dar Am Taïeb"@fr .
+
+wd:Q54888242  rdf:type           th:Musee;
+        rdfs:label               "musée du cinéma"@fr;
+        th:aIdentifiantWikidata  "Q54888242";
+        th:aLatitude             "36.79634"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.165539"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée du cinéma"@fr .
+
+wd:Q95491461  rdf:type           th:Musee;
+        rdfs:label               "musée géologique de l’Ichkeul"@fr;
+        th:aIdentifiantWikidata  "Q95491461";
+        th:aLatitude             "37.13578"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.691393"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée géologique de l’Ichkeul"@fr .
+
+wd:Q47069667  rdf:type           th:Musee;
+        rdfs:label               "musée du patrimoine traditionnel de Djerba"@fr;
+        th:aIdentifiantWikidata  "Q47069667";
+        th:aLatitude             "33.879789"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.862571"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée du patrimoine traditionnel de Djerba"@fr .
+
+wd:Q3330646  rdf:type            th:Musee;
+        rdfs:label               "musée militaire de la ligne défensive de Mareth"@fr;
+        th:aIdentifiantWikidata  "Q3330646";
+        th:aLatitude             "33.596147222"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.3115"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée militaire de la ligne défensive de Mareth"@fr .
+
+wd:Q95491290  rdf:type           th:Musee;
+        rdfs:label               "écomusée de l’Ichkeul"@fr;
+        th:aIdentifiantWikidata  "Q95491290";
+        th:aLatitude             "37.138342"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.692613"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "écomusée de l’Ichkeul"@fr .
+
+wd:Q54888221  rdf:type           th:Musee;
+        rdfs:label               "musée El Kobba"@fr;
+        th:aIdentifiantWikidata  "Q54888221";
+        th:aLatitude             "35.825059"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.638283"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée El Kobba"@fr .
+
+wd:Q96249631  rdf:type           th:Musee;
+        rdfs:label               "Diar Amor"@fr;
+        th:aIdentifiantWikidata  "Q96249631";
+        th:aLatitude             "33.542675"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.895583"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Diar Amor"@fr .
+
+wd:Q3329457  rdf:type            th:Musee;
+        rdfs:label               "musée archéologique de Sousse"@fr;
+        th:aIdentifiantWikidata  "Q3329457";
+        th:aLatitude             "35.82194444"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.63527778"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée archéologique de Sousse"@fr .
+
+wd:Q3329761  rdf:type            th:Musee;
+        rdfs:label               "musée de Zarzis"@fr;
+        th:aIdentifiantWikidata  "Q3329761";
+        th:aLatitude             "33.50376944"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "11.1153222"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée de Zarzis"@fr .
+
+wd:Q112638738  rdf:type          th:Musee;
+        rdfs:label               "musée national d'art moderne et contemporain de Tunis"@fr;
+        th:aIdentifiantWikidata  "Q112638738";
+        th:aLatitude             "36.81111"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.18596"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée national d'art moderne et contemporain de Tunis"@fr .
+
+wd:Q3330718  rdf:type            th:Musee;
+        rdfs:label               "musée national de la médecine"@fr;
+        th:aIdentifiantWikidata  "Q3330718";
+        th:aLatitude             "36.802048"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.163023"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée national de la médecine"@fr .
+
+wd:Q54870552  rdf:type           th:Musee;
+        rdfs:label               "musée archéologique de Haïdra"@fr;
+        th:aIdentifiantWikidata  "Q54870552";
+        th:aLatitude             "35.565463"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "8.45369"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée archéologique de Haïdra"@fr .
+
+wd:Q1429003  rdf:type            th:Musee;
+        rdfs:label               "musée national du Bardo"@fr;
+        th:aIdentifiantWikidata  "Q1429003";
+        th:aLatitude             "36.809444444"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.134444444"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée national du Bardo"@fr .
+
+wd:Q96142555  rdf:type           th:Musee;
+        rdfs:label               "musée des zones humides"@fr;
+        th:aIdentifiantWikidata  "Q96142555";
+        th:aLatitude             "37.169554"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.194423"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée des zones humides"@fr .
+
+wd:Q54888236  rdf:type           th:Musee;
+        rdfs:label               "musée du général Patton"@fr;
+        th:aIdentifiantWikidata  "Q54888236";
+        th:aLatitude             "34.334343"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "8.96577"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée du général Patton"@fr .
+
+wd:Q3329732  rdf:type            th:Musee;
+        rdfs:label               "musée de Nabeul"@fr;
+        th:aIdentifiantWikidata  "Q3329732";
+        th:aLatitude             "36.450702"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.736362"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée de Nabeul"@fr .
+
+wd:Q54888223  rdf:type           th:Musee;
+        rdfs:label               "musée Lalla Hadria"@fr;
+        th:aIdentifiantWikidata  "Q54888223";
+        th:aLatitude             "33.819743"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "11.044968"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée Lalla Hadria"@fr .
+
+wd:Q54888231  rdf:type           th:Musee;
+        rdfs:label               "musée de la pêche artisanale de Zarzis"@fr;
+        th:aIdentifiantWikidata  "Q54888231";
+        th:aLatitude             "33.500589"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "11.116587"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée de la pêche artisanale de Zarzis"@fr .
+
+wd:Q1961849  rdf:type            th:Musee;
+        rdfs:label               "musée national de Carthage"@fr;
+        th:aIdentifiantWikidata  "Q1961849";
+        th:aLatitude             "36.853142"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.324395"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée national de Carthage"@fr .
+
+wd:Q106967027  rdf:type          th:Musee;
+        rdfs:label               "Medinat Alzahra Parc"@fr;
+        th:aIdentifiantWikidata  "Q106967027";
+        th:aLatitude             "35.879609998"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.494432449"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Medinat Alzahra Parc"@fr .
+
+wd:Q3329540  rdf:type            th:Musee;
+        rdfs:label               "musée d'Enfida"@fr;
+        th:aIdentifiantWikidata  "Q3329540";
+        th:aLatitude             "36.13533056"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.379825"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée d'Enfida"@fr .
+
+wd:Q3329467  rdf:type            th:Musee;
+        rdfs:label               "musée archéologique et ethnographique de Moknine"@fr;
+        th:aIdentifiantWikidata  "Q3329467";
+        th:aLatitude             "35.625461"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.900842"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée archéologique et ethnographique de Moknine"@fr .
+
+wd:Q95148620  rdf:type           th:Musee;
+        rdfs:label               "musée Dar Ayed"@fr;
+        th:aIdentifiantWikidata  "Q95148620";
+        th:aNom                  "musée Dar Ayed"@fr .
+
+wd:Q3330752  rdf:type            th:Musee;
+        rdfs:label               "musée Dar El Hout"@fr;
+        th:aIdentifiantWikidata  "Q3330752";
+        th:aLatitude             "36.843455035"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.325855539"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée Dar El Hout"@fr .
+
+wd:Q54888238  rdf:type           th:Musee;
+        rdfs:label               "musée du patrimoine traditionnel de Kesra"@fr;
+        th:aIdentifiantWikidata  "Q54888238";
+        th:aLatitude             "35.813359"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.367178"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée du patrimoine traditionnel de Kesra"@fr .
+
+wd:Q95586688  rdf:type           th:Musee;
+        rdfs:label               "musée berbère de Tamezret"@fr;
+        th:aIdentifiantWikidata  "Q95586688";
+        th:aLatitude             "33.53686"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.864535"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée berbère de Tamezret"@fr .
+
+wd:Q105097153  rdf:type          th:Musee;
+        rdfs:label               "musée du service géologique de Tunisie"@fr;
+        th:aIdentifiantWikidata  "Q105097153";
+        th:aLatitude             "36.846666666"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.208055555"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée du service géologique de Tunisie"@fr .
+
+wd:Q54888217  rdf:type           th:Musee;
+        rdfs:label               "musée Sidi Belkhiria"@fr;
+        th:aIdentifiantWikidata  "Q54888217";
+        th:aLatitude             "35.621824"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.758652"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée Sidi Belkhiria"@fr .
+
+wd:Q3329425  rdf:type            th:Musee;
+        rdfs:label               "musée archéologique d'El Jem"@fr;
+        th:aIdentifiantWikidata  "Q3329425";
+        th:aLatitude             "35.28972222"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.70472222"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée archéologique d'El Jem"@fr .
+
+wd:Q3329124  rdf:type            th:Musee;
+        rdfs:label               "musée Dar Jellouli"@fr;
+        th:aIdentifiantWikidata  "Q3329124";
+        th:aLatitude             "34.7370006"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.7621855"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée Dar Jellouli"@fr .
+
+wd:Q107615630  rdf:type          th:Musee;
+        rdfs:label               "Cinémathèque tunisienne"@fr;
+        th:aIdentifiantWikidata  "Q107615630";
+        th:aNom                  "Cinémathèque tunisienne"@fr .
+
+wd:Q54888220  rdf:type           th:Musee;
+        rdfs:label               "musée des civilisations arabo-berbères Ibn-Khaldoun"@fr;
+        th:aIdentifiantWikidata  "Q54888220";
+        th:aLatitude             "33.86909"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "7.884404"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée des civilisations arabo-berbères Ibn-Khaldoun"@fr .
+
+wd:Q86666582  rdf:type           th:Musee;
+        rdfs:label               "musée de la ville de Tunis"@fr;
+        th:aIdentifiantWikidata  "Q86666582";
+        th:aLatitude             "36.801606"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.168533"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée de la ville de Tunis"@fr .
+
+wd:Q16978763  rdf:type           th:Musee;
+        rdfs:label               "musée archéologique de Salakta"@fr;
+        th:aIdentifiantWikidata  "Q16978763";
+        th:aLatitude             "35.392388"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "11.048796"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée archéologique de Salakta"@fr .
+
+wd:Q47289182  rdf:type           th:Musee;
+        rdfs:label               "Dar El Annabi"@fr;
+        th:aIdentifiantWikidata  "Q47289182";
+        th:aLatitude             "36.870964"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.347402"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Dar El Annabi"@fr .
+
+wd:Q2974789  rdf:type            th:Musee;
+        rdfs:label               "Cité des sciences"@fr;
+        th:aIdentifiantWikidata  "Q2974789";
+        th:aLatitude             "36.8496"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.18847"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "Cité des sciences"@fr .
+
+wd:Q16335626  rdf:type           th:Musee;
+        rdfs:label               "musée Habib-Bourguiba"@fr;
+        th:aIdentifiantWikidata  "Q16335626";
+        th:aLatitude             "35.7786"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.784"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée Habib-Bourguiba"@fr .
+
+wd:Q47159150  rdf:type           th:Musee;
+        rdfs:label               "musée océanographique de Bizerte"@fr;
+        th:aIdentifiantWikidata  "Q47159150";
+        th:aLatitude             "37.278186"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.877002"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée océanographique de Bizerte"@fr .
+
+wd:Q3330043  rdf:type            th:Musee;
+        rdfs:label               "musée de la monnaie"@fr;
+        th:aIdentifiantWikidata  "Q3330043";
+        th:aLatitude             "36.8046"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.1854"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée de la monnaie"@fr .
+
+wd:Q105097204  rdf:type          th:Musee;
+        rdfs:label               "musée de la justice"@fr;
+        th:aIdentifiantWikidata  "Q105097204";
+        th:aLatitude             "36.801388888"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.165277777"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée de la justice"@fr .
+
+wd:Q3329435  rdf:type            th:Musee;
+        rdfs:label               "musée archéologique de Gafsa"@fr;
+        th:aIdentifiantWikidata  "Q3329435";
+        th:aLatitude             "34.42"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "8.79"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée archéologique de Gafsa"@fr .
+
+wd:Q54888227  rdf:type           th:Musee;
+        rdfs:label               "musée des coutumes et des traditions de Médenine"@fr;
+        th:aIdentifiantWikidata  "Q54888227";
+        th:aLatitude             "33.347518"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "10.491814"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée des coutumes et des traditions de Médenine"@fr .
+
+wd:Q16335548  rdf:type           th:Musee;
+        rdfs:label               "musée du Sahara de Douz"@fr;
+        th:aIdentifiantWikidata  "Q16335548";
+        th:aLatitude             "33.45"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "9.01"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée du Sahara de Douz"@fr .
+
+wd:Q3329731  rdf:type            th:Musee;
+        rdfs:label               "musée de Mahdia"@fr;
+        th:aIdentifiantWikidata  "Q3329731";
+        th:aLatitude             "35.5038"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aLongitude            "11.0688"^^<http://www.w3.org/2001/XMLSchema#double>;
+        th:aNom                  "musée de Mahdia"@fr .

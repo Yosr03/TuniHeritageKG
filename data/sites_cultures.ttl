@@ -1,0 +1,182 @@
+
+PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX th:   <http://www.tuniheritage.tn/ontology#>
+PREFIX wd:   <http://www.wikidata.org/entity/>
+
+wd:Q29002297 rdfs:label "amphithéâtre de Thignica"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q29002309 rdfs:label "amphithéâtre de Thuburbo Majus"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q29002325 rdfs:label "second amphithéâtre d'Utica"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q3523842 rdfs:label "thermes d'Antonin"@fr;
+    th:appartientAUneCulture wd:Q2277 .
+
+wd:Q29002304 rdfs:label "amphithéâtre de Limisa"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q29002312 rdfs:label "amphithéâtre d'Agbia"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q29002320 rdfs:label "amphithéâtre de Thibaris"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q1820152 rdfs:label "Leptis Minor"@fr;
+    th:appartientAUneCulture wd:Q1048468 .
+
+wd:Q603588 rdf:type th:CultureHistorique;
+    rdfs:label "Massyles"@fr .
+
+wd:Q3107354 rdfs:label "Raqqada"@fr;
+    th:appartientAUneCulture wd:Q207600 .
+
+wd:Q17167 rdf:type th:CultureHistorique;
+    rdfs:label "République romaine"@fr .
+
+wd:Q29002299 rdfs:label "amphithéâtre de Pheradi Maius"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q29002319 rdfs:label "amphithéâtre de Thapsus"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q13429354 rdfs:label "amphithéâtre d'Oudna"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q1004205 rdfs:label "Bulla Regia"@fr;
+    th:appartientAUneCulture wd:Q4383747 .
+
+wd:Q29002314 rdfs:label "amphithéâtre de Bararus"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q29002322 rdfs:label "amphithéâtre de Uchi Maius"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q47591 rdf:type th:CultureHistorique;
+    rdfs:label "architecture byzantine"@fr .
+
+wd:Q1747689 rdf:type th:CultureHistorique;
+    rdfs:label "Rome antique"@fr .
+
+wd:Q29002301 rdfs:label "amphithéâtre de Meninx"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q3589083 rdfs:label "épave de Mahdia"@fr;
+    th:appartientAUneCulture wd:Q428995 .
+
+wd:Q21344669 rdfs:label "nécropole des Rabs"@fr;
+    th:appartientAUneCulture wd:Q2429397 .
+
+wd:Q42211 rdf:type th:CultureHistorique;
+    rdfs:label "Vandales"@fr .
+
+wd:Q136368801 rdfs:label "Thala"@fr;
+    th:appartientAUneCulture wd:Q12544, wd:Q603588, wd:Q1747689 .
+
+wd:Q136297566 rdfs:label "Henchir el Gousset"@fr;
+    th:appartientAUneCulture wd:Q42211 .
+
+wd:Q29002316 rdfs:label "amphithéâtre de Leptis Minor"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q29002324 rdfs:label "premier amphithéâtre d'Utica"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q6141028 rdfs:label "temple d'Eshmoun"@fr;
+    th:appartientAUneCulture wd:Q2429397 .
+
+wd:Q29002303 rdfs:label "amphithéâtre de Jebel Moraba"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q29002311 rdfs:label "amphithéâtre d'Acholla"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q2425444 rdfs:label "Abbir Germaniciana"@fr;
+    th:appartientAUneCulture wd:Q17167 .
+
+wd:Q1048468 rdf:type th:CultureHistorique;
+    rdfs:label "Phéniciens"@fr .
+
+wd:Q29002298 rdfs:label "amphithéâtre de Thimisua"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q42609083 rdfs:label "amphithéâtre situé au nord-est de l'arc de Sévère Alexandre"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q2277 rdf:type th:CultureHistorique;
+    rdfs:label "Empire romain"@fr .
+
+wd:Q29002318 rdfs:label "amphithéâtre de Thaenae"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q29002326 rdfs:label "second amphithéâtre d'El Jem"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q535958 rdf:type th:CultureHistorique;
+    rdfs:label "punique"@fr .
+
+wd:Q428995 rdf:type th:CultureHistorique;
+    rdfs:label "époque hellénistique"@fr .
+
+wd:Q12544 rdf:type th:CultureHistorique;
+    rdfs:label "Empire byzantin"@fr .
+
+wd:Q29002305 rdfs:label "amphithéâtre de Seressi"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q29002313 rdfs:label "amphithéâtre d'Avitta Bibba"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q29002321 rdfs:label "amphithéâtre de Thizica"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q207600 rdf:type th:CultureHistorique;
+    rdfs:label "Aghlabides"@fr .
+
+wd:Q136396025 rdfs:label "Thélepte"@fr;
+    th:appartientAUneCulture wd:Q47591, wd:Q1747689 .
+
+wd:Q132411939 rdfs:label "Rammadiya d'El Magtaa"@fr;
+    th:appartientAUneCulture wd:Q766150 .
+
+wd:Q29002300 rdfs:label "amphithéâtre de Chemtou"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q1018648 rdfs:label "Byrsa"@fr;
+    th:appartientAUneCulture wd:Q2429397 .
+
+wd:Q766150 rdf:type th:CultureHistorique;
+    rdfs:label "Capsien"@fr .
+
+wd:Q126104021 rdfs:label "Capsa"@fr;
+    th:appartientAUneCulture wd:Q766150 .
+
+wd:Q166523 rdfs:label "Utique"@fr;
+    th:appartientAUneCulture wd:Q535958, wd:Q1747689 .
+
+wd:Q2429397 rdf:type th:CultureHistorique;
+    rdfs:label "Civilisation carthaginoise"@fr .
+
+wd:Q29002307 rdfs:label "amphithéâtre de Tebourba"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q29002315 rdfs:label "amphithéâtre de Bulla Regia"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q32378 rdfs:label "Dougga"@fr;
+    th:appartientAUneCulture wd:Q4383747 .
+
+wd:Q29002323 rdfs:label "amphithéâtre de Ulissipira"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q4383747 rdf:type th:CultureHistorique;
+    rdfs:label "Culture punique"@fr .
+
+wd:Q29002302 rdfs:label "amphithéâtre d'Henchir-Boucha"@fr;
+    th:appartientAUneCulture wd:Q1747689 .
+
+wd:Q29002310 rdfs:label "amphithéâtre de Dougga"@fr;
+    th:appartientAUneCulture wd:Q1747689 .

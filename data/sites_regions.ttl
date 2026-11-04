@@ -1,0 +1,440 @@
+PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX th:   <http://www.tuniheritage.tn/ontology#>
+PREFIX wd:   <http://www.wikidata.org/entity/>
+
+wd:Q242263  rdf:type  th:Lieu;
+        rdfs:label  "Gabès"@fr;
+        th:aNom     "Gabès"@fr .
+
+wd:Q269424  rdfs:label   "Oudna"@fr;
+        th:estSitueDans  wd:Q238555 .
+
+wd:Q440812  rdfs:label   "Althiburos"@fr;
+        th:estSitueDans  wd:Q328199 .
+
+wd:Q328164  rdf:type  th:Lieu;
+        rdfs:label  "Mahdia"@fr;
+        th:aNom     "Mahdia"@fr .
+
+wd:Q42597452  rdfs:label  "Maison byzantine (ruines du plateau Saint-Louis)"@fr;
+        th:estSitueDans  wd:Q28151514 .
+
+wd:Q42765635  rdfs:label  "camp romain"@fr;
+        th:estSitueDans  wd:Q1015427 .
+
+wd:Q339535  rdf:type  th:Lieu;
+        rdfs:label  "Hammamet"@fr;
+        th:aNom     "Hammamet"@fr .
+
+wd:Q745615  rdf:type  th:Lieu;
+        rdfs:label  "Assuras"@fr;
+        th:aNom     "Assuras"@fr .
+
+wd:Q42607657  rdfs:label  "Restes des mégalithes voisins"@fr;
+        th:estSitueDans  wd:Q276576 .
+
+wd:Q1229542  rdfs:label  "Ksar Chetaoua"@fr;
+        th:estSitueDans  wd:Q242263 .
+
+wd:Q11938507  rdfs:label  "nécropole de Carthage"@fr;
+        th:estSitueDans  wd:Q28151514 .
+
+wd:Q3076106  rdfs:label  "fontaine aux mille amphores"@fr;
+        th:estSitueDans  wd:Q28151514 .
+
+wd:Q65944741  rdfs:label  "cité punique de Kerkouane et sa nécropole"@fr;
+        th:estSitueDans  wd:Q328145 .
+
+wd:Q3346808  rdfs:label  "Néapolis"@fr;
+        th:estSitueDans  wd:Q867615 .
+
+wd:Q3306003  rdfs:label  "Meninx"@fr;
+        th:estSitueDans  wd:Q846653 .
+
+wd:Q60026339  rdfs:label  "Benia bel Recheb"@fr;
+        th:estSitueDans  wd:Q327087 .
+
+wd:Q3107354  rdfs:label  "Raqqada"@fr;
+        th:estSitueDans  wd:Q276574 .
+
+wd:Q276580  rdf:type  th:Lieu;
+        rdfs:label  "Jendouba"@fr;
+        th:aNom     "Jendouba"@fr .
+
+wd:Q42609133  rdfs:label  "Cirque présumé, sur la colline du Nord (vestiges de constructions demi-circulaires et restes des mégalilthes voisins)"@fr;
+        th:estSitueDans  wd:Q276576 .
+
+wd:Q2972594  rdfs:label  "cimetière des officiales de Carthage"@fr;
+        th:estSitueDans  wd:Q28151514 .
+
+wd:Q12243985  rdf:type  th:Lieu;
+        rdfs:label  "délégation de Ksour Essef"@fr;
+        th:aNom     "délégation de Ksour Essef"@fr .
+
+wd:Q9085741  rdfs:label  "temple de Minerve II"@fr;
+        th:estSitueDans  wd:Q276576 .
+
+wd:Q42765767  rdfs:label  "Ras el Oued Gordab"@fr;
+        th:estSitueDans  wd:Q327087 .
+
+wd:Q21082927  rdfs:label  "Henchir El Menafa"@fr;
+        th:estSitueDans  wd:Q327087 .
+
+wd:Q6985710  rdfs:label  "nécropole de Kerkouane"@fr;
+        th:estSitueDans  wd:Q328145 .
+
+wd:Q9049104  rdfs:label  "nécropole dolménique de Dougga"@fr;
+        th:estSitueDans  wd:Q276576 .
+
+wd:Q27972441  rdfs:label  "Ksar Ibn El Jaâd"@fr;
+        th:estSitueDans  wd:Q208715 .
+
+wd:Q1321203  rdfs:label  "parc national de Jbil"@fr;
+        th:estSitueDans  wd:Q286063 .
+
+wd:Q3410900  rdfs:label  "Pupput"@fr;
+        th:estSitueDans  wd:Q339535 .
+
+wd:Q21064815  rdfs:label  "sanctuaire de Thinissut"@fr;
+        th:estSitueDans  wd:Q2904332 .
+
+wd:Q328145  rdf:type  th:Lieu;
+        rdfs:label  "Nabeul"@fr;
+        th:aNom     "Nabeul"@fr .
+
+wd:Q21084367  rdfs:label  "Segermes"@fr;
+        th:estSitueDans  wd:Q27916 .
+
+wd:Q867615  rdf:type  th:Lieu;
+        rdfs:label  "Nabeul"@fr;
+        th:aNom     "Nabeul"@fr .
+
+wd:Q1004205  rdfs:label  "Bulla Regia"@fr;
+        th:estSitueDans  wd:Q276580 .
+
+wd:Q289618  rdfs:label   "Al-Mansuriya"@fr;
+        th:estSitueDans  wd:Q622855 .
+
+wd:Q2760406  rdfs:label  "Musti"@fr;
+        th:estSitueDans  wd:Q328115 .
+
+wd:Q42603827  rdfs:label  "temple de Saturne"@fr;
+        th:estSitueDans  wd:Q27916 .
+
+wd:Q208715  rdf:type  th:Lieu;
+        rdfs:label  "Monastir"@fr;
+        th:aNom     "Monastir"@fr .
+
+wd:Q241145  rdf:type  th:Lieu;
+        rdfs:label  "Sfax"@fr;
+        th:aNom     "Sfax"@fr .
+
+wd:Q276574  rdf:type  th:Lieu;
+        rdfs:label  "Kairouan"@fr;
+        th:aNom     "Kairouan"@fr .
+
+wd:Q2107400  rdfs:label  "Si Aioun"@fr;
+        th:estSitueDans  wd:Q327045 .
+
+wd:Q2743152  rdfs:label  "ports puniques de Carthage"@fr;
+        th:estSitueDans  wd:Q28151514 .
+
+wd:Q42764927  rdfs:label  "castellum"@fr;
+        th:estSitueDans  wd:Q327087 .
+
+wd:Q42597225  rdfs:label  "maisons et rues romaines de Ard-el-Mourali"@fr;
+        th:estSitueDans  wd:Q28151514 .
+
+wd:Q21344669  rdfs:label  "nécropole des Rabs"@fr;
+        th:estSitueDans  wd:Q28151514 .
+
+wd:Q42764878  rdfs:label  "temple d’Esculape"@fr;
+        th:estSitueDans  wd:Q327087 .
+
+wd:Q42760097  rdfs:label  "théâtre d'Ammaeadara"@fr;
+        th:estSitueDans  wd:Q2358652 .
+
+wd:Q42754548  rdfs:label  "théâtre de Chemtou"@fr;
+        th:estSitueDans  wd:Q276580 .
+
+wd:Q1536583  rdfs:label  "Sbeïtla"@fr;
+        th:estSitueDans  wd:Q388047 .
+
+wd:Q8772807  rdfs:label  "Al-Abbasiyya"@fr;
+        th:estSitueDans  wd:Q276574 .
+
+wd:Q42609812  rdfs:label  "temple antique d'Aïn Tounga"@fr;
+        th:estSitueDans  wd:Q276576 .
+
+wd:Q2983443  rdfs:label  "colline de l'odéon et parc des villas romaines de Carthage"@fr;
+        th:estSitueDans  wd:Q28151514 .
+
+wd:Q42759152  rdfs:label  "temple romain"@fr;
+        th:estSitueDans  wd:Q276574 .
+
+wd:Q622855  rdf:type  th:Lieu;
+        rdfs:label  "Ifriqiya"@fr;
+        th:aNom     "Ifriqiya"@fr .
+
+wd:Q286063  rdf:type  th:Lieu;
+        rdfs:label  "Kébili"@fr;
+        th:aNom     "Kébili"@fr .
+
+wd:Q5810168  rdfs:label  "temple de Massinissa divinisé"@fr;
+        th:estSitueDans  wd:Q276576 .
+
+wd:Q52284968  rdfs:label  "Site archéologique de Carthage"@fr;
+        th:estSitueDans  wd:Q28151514 .
+
+wd:Q3485394  rdfs:label  "Makthar"@fr;
+        th:estSitueDans  wd:Q1204373 .
+
+wd:Q42762564  rdfs:label  "temple de Vénus"@fr;
+        th:estSitueDans  wd:Q276565 .
+
+wd:Q42764906  rdfs:label  "temple de Mercure"@fr;
+        th:estSitueDans  wd:Q327087 .
+
+wd:Q27916  rdf:type  th:Lieu;
+        rdfs:label  "Zaghouan"@fr;
+        th:aNom     "Zaghouan"@fr .
+
+wd:Q42597147  rdfs:label  "Maisons romaines et tombeaux puniques situés au Nord-Ouest des thermes d'Antonin"@fr;
+        th:estSitueDans  wd:Q28151514 .
+
+wd:Q42755146  rdfs:label  "théâtre d'Assuras"@fr;
+        th:estSitueDans  wd:Q745615 .
+
+wd:Q238555  rdf:type  th:Lieu;
+        rdfs:label  "Ben Arous"@fr;
+        th:aNom     "Ben Arous"@fr .
+
+wd:Q2941582  rdfs:label  "catacombes de Sousse"@fr;
+        th:estSitueDans  wd:Q180717 .
+
+wd:Q11954828  rdfs:label  "villas romaines de Carthage"@fr;
+        th:estSitueDans  wd:Q28151514 .
+
+wd:Q14612528  rdfs:label  "Tisavar"@fr;
+        th:estSitueDans  wd:Q286063 .
+
+wd:Q334495  rdfs:label   "Abthugni"@fr;
+        th:estSitueDans  wd:Q27916 .
+
+wd:Q734328  rdf:type  th:Lieu;
+        rdfs:label  "La Manouba"@fr;
+        th:aNom     "La Manouba"@fr .
+
+wd:Q328199  rdf:type  th:Lieu;
+        rdfs:label  "Le Kef"@fr;
+        th:aNom     "Le Kef"@fr .
+
+wd:Q276576  rdf:type  th:Lieu;
+        rdfs:label  "Béja"@fr;
+        th:aNom     "Béja"@fr .
+
+wd:Q12211477  rdf:type  th:Lieu;
+        rdfs:label  "Djebba"@fr;
+        th:aNom     "Djebba"@fr .
+
+wd:Q42755003  rdfs:label  "théâtre de Bulla Regia"@fr;
+        th:estSitueDans  wd:Q276580 .
+
+wd:Q42602093  rdfs:label  "nécropole romaine fouillée en 1914"@fr;
+        th:estSitueDans  wd:Q328145 .
+
+wd:Q2974258  rdfs:label  "cirque de Carthage"@fr;
+        th:estSitueDans  wd:Q28151514 .
+
+wd:Q846653  rdf:type  th:Lieu;
+        rdfs:label  "Médenine"@fr;
+        th:aNom     "Médenine"@fr .
+
+wd:Q9085753  rdfs:label  "temple de Pluton"@fr;
+        th:estSitueDans  wd:Q276576 .
+
+wd:Q42596762  rdfs:label  "nécropole de Dermech"@fr;
+        th:estSitueDans  wd:Q28151514 .
+
+wd:Q42765665  rdfs:label  "castellum"@fr;
+        th:estSitueDans  wd:Q327087 .
+
+wd:Q3130225  rdfs:label  "Henchir Bourgou"@fr;
+        th:estSitueDans  wd:Q687088 .
+
+wd:Q28151514  rdf:type  th:Lieu;
+        rdfs:label  "Carthage"@fr;
+        th:aNom     "Carthage"@fr .
+
+wd:Q2904332  rdf:type  th:Lieu;
+        rdfs:label  "Bir Bouregba"@fr;
+        th:aNom     "Bir Bouregba"@fr .
+
+wd:Q42596725  rdfs:label  "Tombeaux puniques (ruines du plateau Saint-Louis)"@fr;
+        th:estSitueDans  wd:Q28151514 .
+
+wd:Q42756696  rdfs:label  "mégalithes"@fr;
+        th:estSitueDans  wd:Q3111959 .
+
+wd:Q853583  rdfs:label   "Bezereos"@fr;
+        th:estSitueDans  wd:Q286063 .
+
+wd:Q42605783  rdfs:label  "temple à colonnes corinthiennes"@fr;
+        th:estSitueDans  wd:Q276576 .
+
+wd:Q388047  rdf:type  th:Lieu;
+        rdfs:label  "Kasserine"@fr;
+        th:aNom     "Kasserine"@fr .
+
+wd:Q327087  rdf:type  th:Lieu;
+        rdfs:label  "Médenine"@fr;
+        th:aNom     "Médenine"@fr .
+
+wd:Q3346870  rdfs:label  "nécropole de Pupput"@fr;
+        th:estSitueDans  wd:Q339535 .
+
+wd:Q3108571  rdfs:label  "tophet de Carthage"@fr;
+        th:estSitueDans  wd:Q28151514 .
+
+wd:Q18008299  rdfs:label  "théâtre de Carthage"@fr;
+        th:estSitueDans  wd:Q28151514 .
+
+wd:Q30589750  rdfs:label  "Henchir-Bez"@fr;
+        th:estSitueDans  wd:Q328115 .
+
+wd:Q3111959  rdf:type  th:Lieu;
+        rdfs:label  "Kesra"@fr;
+        th:aNom     "Kesra"@fr .
+
+wd:Q286794  rdfs:label   "Salakta"@fr;
+        th:estSitueDans  wd:Q12243985 .
+
+wd:Q3572870  rdfs:label  "Younga"@fr;
+        th:estSitueDans  wd:Q241145 .
+
+wd:Q40888214  rdfs:label  "Henchir-Bir-El-Menadla"@fr;
+        th:estSitueDans  wd:Q328164 .
+
+wd:Q2358652  rdf:type  th:Lieu;
+        rdfs:label  "Haïdra"@fr;
+        th:aNom     "Haïdra"@fr .
+
+wd:Q1523755  rdfs:label  "Gigthis"@fr;
+        th:estSitueDans  wd:Q327087 .
+
+wd:Q276565  rdf:type  th:Lieu;
+        rdfs:label  "Sousse"@fr;
+        th:aNom     "Sousse"@fr .
+
+wd:Q328115  rdf:type  th:Lieu;
+        rdfs:label  "Siliana"@fr;
+        th:aNom     "Siliana"@fr .
+
+wd:Q42603663  rdfs:label  "temple de la Paix"@fr;
+        th:estSitueDans  wd:Q27916 .
+
+wd:Q1053530  rdfs:label  "centenarium de Tibubuci"@fr;
+        th:estSitueDans  wd:Q286063 .
+
+wd:Q42432933  rdfs:label  "nécropole punique de Bordj-Djedid et tombeaux récemment découverts"@fr;
+        th:estSitueDans  wd:Q28151514 .
+
+wd:Q42594312  rdfs:label  "caveaux funéraires du djebel Khaoui"@fr;
+        th:estSitueDans  wd:Q328109 .
+
+wd:Q327045  rdf:type  th:Lieu;
+        rdfs:label  "Tataouine"@fr;
+        th:aNom     "Tataouine"@fr .
+
+wd:Q1564631  rdfs:label  "Benia Guedah Ceder"@fr;
+        th:estSitueDans  wd:Q242263 .
+
+wd:Q42610338  rdfs:label  "ruines du temple consacré à Jupiter, Junon et Minerve"@fr;
+        th:estSitueDans  wd:Q276576 .
+
+wd:Q11951246  rdfs:label  "temple de Saturne"@fr;
+        th:estSitueDans  wd:Q276576 .
+
+wd:Q28456294  rdfs:label  "Vallis"@fr;
+        th:estSitueDans  wd:Q27916 .
+
+wd:Q3579117  rdfs:label  "édifice à colonnes de Carthage"@fr;
+        th:estSitueDans  wd:Q28151514 .
+
+wd:Q29002295  rdfs:label  "Henchir-Ed-Douamès"@fr;
+        th:estSitueDans  wd:Q276576 .
+
+wd:Q30591933  rdfs:label  "Henchir el Matria"@fr;
+        th:estSitueDans  wd:Q276576 .
+
+wd:Q16175298  rdfs:label  "quartier Hannibal"@fr;
+        th:estSitueDans  wd:Q28151514 .
+
+wd:Q1015427  rdf:type  th:Lieu;
+        rdfs:label  "Remada"@fr;
+        th:aNom     "Remada"@fr .
+
+wd:Q35322622  rdfs:label  "temple de Tellus"@fr;
+        th:estSitueDans  wd:Q276576 .
+
+wd:Q1468162  rdfs:label  "Henchir Krannfir"@fr;
+        th:estSitueDans  wd:Q242263 .
+
+wd:Q33996482  rdfs:label  "temple de la Piété Auguste"@fr;
+        th:estSitueDans  wd:Q276576 .
+
+wd:Q32378  rdfs:label    "Dougga"@fr;
+        th:estSitueDans  wd:Q276576 .
+
+wd:Q1204373  rdf:type  th:Lieu;
+        rdfs:label  "Makthar"@fr;
+        th:aNom     "Makthar"@fr .
+
+wd:Q17379233  rdfs:label  "Acholla"@fr;
+        th:estSitueDans  wd:Q241145 .
+
+wd:Q42609741  rdfs:label  "Édifice demi-circulaire dont il subsiste un mur extérieur assez élevé ainsi que le soubassement d'un édifice rectangulaire"@fr;
+        th:estSitueDans  wd:Q276576 .
+
+wd:Q328109  rdf:type  th:Lieu;
+        rdfs:label  "Tunis"@fr;
+        th:aNom     "Tunis"@fr .
+
+wd:Q180717  rdf:type  th:Lieu;
+        rdfs:label  "Sousse"@fr;
+        th:aNom     "Sousse"@fr .
+
+wd:Q42765742  rdfs:label  "fort romain"@fr;
+        th:estSitueDans  wd:Q327087 .
+
+wd:Q687088  rdf:type  th:Lieu;
+        rdfs:label  "Midoun"@fr;
+        th:aNom     "Midoun"@fr .
+
+wd:Q42608647  rdfs:label  "Cinq portes"@fr;
+        th:estSitueDans  wd:Q276576 .
+
+wd:Q2425630  rdfs:label  "Abbir Maius"@fr;
+        th:estSitueDans  wd:Q27916 .
+
+wd:Q35322142  rdfs:label  "Q35322142"@fr;
+        th:estSitueDans  wd:Q12211477 .
+
+wd:Q9085760  rdfs:label  "temple des Victoires de Caracalla"@fr;
+        th:estSitueDans  wd:Q276576 .
+
+wd:Q3526009  rdfs:label  "Thuburnica"@fr;
+        th:estSitueDans  wd:Q276580 .
+
+wd:Q2291068  rdfs:label  "théâtre de Dougga"@fr;
+        th:estSitueDans  wd:Q276576 .
+
+wd:Q1967945  rdfs:label  "Thuburbo Majus"@fr;
+        th:estSitueDans  wd:Q27916 .
+
+wd:Q33059659  rdfs:label  "forteresse romaine de Dougga"@fr;
+        th:estSitueDans  wd:Q276576 .
+
+wd:Q20704260  rdfs:label  "El Mahrine"@fr;
+        th:estSitueDans  wd:Q734328 .

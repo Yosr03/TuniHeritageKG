@@ -1,0 +1,58 @@
+PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX th:   <http://www.tuniheritage.tn/ontology#>
+PREFIX wd:   <http://www.wikidata.org/entity/>
+
+wd:Q141684981  rdf:type          th:Tradition;
+        rdfs:label               "margoum d'Oudhref"@fr;
+        th:aIdentifiantWikidata  "Q141684981";
+        th:aNom                  "margoum d'Oudhref"@fr;
+        th:aTypeWikidata         wd:Q460693 , wd:Q82821 .
+
+wd:Q877729  rdfs:label  "artisanat"@fr .
+
+wd:Q2957722  rdf:type            th:Tradition;
+        rdfs:label               "charfia"@fr;
+        th:aIdentifiantWikidata  "Q2957722";
+        th:aNom                  "charfia"@fr;
+        th:aTypeWikidata         wd:Q460693 , wd:Q82821 .
+
+wd:Q3358155  rdf:type            th:Tradition;
+        rdfs:label               "oula"@fr;
+        th:aIdentifiantWikidata  "Q3358155";
+        th:aNom                  "oula"@fr;
+        th:aTypeWikidata         wd:Q82821 .
+
+wd:Q141842683  rdf:type          th:Tradition;
+        rdfs:label               "Q141842683"@fr;
+        th:aIdentifiantWikidata  "Q141842683";
+        th:aNom                  "Q141842683"@fr;
+        th:aTypeWikidata         wd:Q877729 , wd:Q460693 .
+
+wd:Q460693  rdfs:label  "savoir-faire"@fr .
+
+wd:Q109257129  rdf:type          th:Tradition;
+        rdfs:label               "Les savoir-faire liés à la poterie des femmes de Sejnane"@fr;
+        th:aIdentifiantWikidata  "Q109257129";
+        th:aNom                  "Les savoir-faire liés à la poterie des femmes de Sejnane"@fr;
+        th:aTypeWikidata         wd:Q877729 , wd:Q460693 , wd:Q82821 .
+
+wd:Q82821  rdfs:label  "tradition"@fr .
+
+wd:Q2865815  rdf:type            th:Tradition;
+        rdfs:label               "artisanat tunisien"@fr;
+        th:aIdentifiantWikidata  "Q2865815";
+        th:aNom                  "artisanat tunisien"@fr;
+        th:aTypeWikidata         wd:Q877729 .
+
+wd:Q3358324  rdf:type            th:Tradition;
+        rdfs:label               "Oumouk tangou"@fr;
+        th:aIdentifiantWikidata  "Q3358324";
+        th:aNom                  "Oumouk tangou"@fr;
+        th:aTypeWikidata         wd:Q82821 .
+
+wd:Q141685602  rdf:type          th:Tradition;
+        rdfs:label               "cages de Sidi Bou Saïd"@fr;
+        th:aIdentifiantWikidata  "Q141685602";
+        th:aNom                  "cages de Sidi Bou Saïd"@fr;
+        th:aTypeWikidata         wd:Q877729 , wd:Q460693 , wd:Q82821 .

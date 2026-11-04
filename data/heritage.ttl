@@ -1,0 +1,90 @@
+
+@prefix th: <http://www.tuniheritage.tn/ontology#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+# Site archeologique : Dougga
+wd:Q32378 a th:SiteArcheologique ;
+    rdfs:label "Dougga"@fr ;
+    th:aNom "Dougga"@fr ;
+    th:aIdentifiantWikidata "Q32378" .
+
+# Site archeologique : Byrsa
+wd:Q1018648 a th:SiteArcheologique ;
+    rdfs:label "Byrsa"@fr ;
+    th:aNom "Byrsa"@fr ;
+    th:aIdentifiantWikidata "Q1018648" .
+
+
+# =====================================
+# CULTURES HISTORIQUES
+# =====================================
+
+# Culture punique
+wd:Q4383747 a th:CultureHistorique ;
+    rdfs:label "Culture punique"@fr .
+
+# Civilisation carthaginoise
+wd:Q2429397 a th:CultureHistorique ;
+    rdfs:label "Civilisation carthaginoise"@fr .
+
+# =====================================
+# RELATIONS SITES - CULTURES
+# =====================================
+
+# Dougga est associe a la culture punique
+wd:Q32378 th:appartientAUneCulture wd:Q4383747 .
+
+# Byrsa est associee a la civilisation carthaginoise
+wd:Q1018648 th:appartientAUneCulture wd:Q2429397 .
+
+
+# =====================================
+# PERIODES HISTORIQUES
+# =====================================
+
+# Periode : Antiquite
+wd:Q41493 a th:PeriodeHistorique ;
+    rdfs:label "Antiquité"@fr .
+
+# Periode : Antiquite classique
+wd:Q486761 a th:PeriodeHistorique ;
+    rdfs:label "Antiquité classique"@fr .
+
+# Periode : Haut Moyen Age
+wd:Q202763 a th:PeriodeHistorique ;
+    rdfs:label "Haut Moyen Âge"@fr .
+
+# Periode : Epipaleolithique
+wd:Q829005 a th:PeriodeHistorique ;
+    rdfs:label "Épipaléolithique"@fr .
+
+# =====================================
+# RELATION SITE - PERIODE
+# =====================================
+
+# Byrsa appartient a la periode de l'Antiquite
+wd:Q1018648 th:aPeriodeHistorique wd:Q41493 .
+
+# LIEUX GEOGRAPHIQUES
+
+# Gouvernorat de Beja
+#th:Beja a th:Lieu ;
+  #  rdfs:label "Béja"@fr ;
+   # th:aNom "Béja"@fr .
+
+# RELATIONS SITES - LIEUX
+
+# Dougga est situe dans la region de Beja
+#wd:Q32378 th:estSitueDans th:Beja .
+
+# LIBELLES DES CONCEPTS HISTORIQUES
+
+# Periode historique : Antiquite
+wd:Q41493 th:aLibelleConcept "Antiquité"@fr .
+
+# Culture historique : civilisation carthaginoise
+wd:Q2429397 th:aLibelleConcept "Civilisation carthaginoise"@fr .
+
+# Culture historique : punique
+wd:Q4383747 th:aLibelleConcept "Punique"@fr .
